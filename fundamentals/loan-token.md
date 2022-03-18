@@ -2,7 +2,7 @@
 
 ### What is a LOAN token?
 
-LOAN is an ERC-1155 token representing a loan in PWN protocol. With a LOAN token, you have the right to claim the underlying assets when the loan expires. You can claim tokens that the borrower repaid or underlying collateral if the borrower does not pay the loan back.&#x20;
+LOAN is an NFT token representing a loan in PWN protocol. With a LOAN token, you have the right to claim the underlying assets when the loan expires. You can claim tokens that the borrower repaid or underlying collateral if the borrower does not pay the loan back.
 
 ### How do I get a LOAN token?
 
