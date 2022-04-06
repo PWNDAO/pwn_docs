@@ -21,3 +21,15 @@ Currently, the PWN protocol is in the Alpha stage. That means only people with e
 {% hint style="info" %}
 Register on the waitlist even if you have the POAP. Probably nothing.
 {% endhint %}
+
+### How is the documentation organized?
+
+Here is a high-level overview of our documentation, so you can find everything as soon as possible.
+
+* **Fundamentals** - You can learn about the core pillars PWN protocol stands on. We are here for the long run.
+* **Governance** - How does our governance works?
+* **Use** **PWN** - Try it out!
+* **Guides** - See how can you use the PWN protocol.&#x20;
+* **Community** - The layer 0 and most important part of any product are its users.
+
+There is also [developer documentation](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how pwn works under the hood please look there.&#x20;
