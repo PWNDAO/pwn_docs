@@ -1,6 +1,6 @@
 # Peer-to-Peer lending
 
-A Fundamental concept that enables PWN to function is peer-to-peer (P2P) lending.
+A Fundamental concept that enables PWN Protocol to function is peer-to-peer (P2P) lending.
 
 ### P2P lending vs Lending pools
 
@@ -14,6 +14,6 @@ With P2P lending, we gain the ability to lend or borrow any asset. It's up to th
 
 ### Gotchas of P2P lending
 
-The fact that it's possible to borrow against any asset doesn't mean it will happen. There have to be both borrowers and lenders. If either side is not satisfied with the proposed terms of a loan, the loan won't be realized.
+The fact that it's possible to borrow against any asset doesn't mean it will happen. There must be both borrowers and lenders. If either side is not satisfied with the proposed terms of a loan, the loan won't be realized.
 
 Another critical consideration is that a specific borrower must be connected to a specific lender. This makes creating loans a process that can take minutes or hours, even with a large user base.
