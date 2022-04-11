@@ -32,4 +32,4 @@ Here is a high-level overview of our documentation, so you can find everything a
 * **Use** **PWN** - Try it out!
 * **Community** - The layer 0 and most important part of any product are its users.
 * **Security** - Audits & Bug bounty information
-* There is also [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN works under the hood please look there.&#x20;
+* There is also [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN works under the hood please have a look there.&#x20;
