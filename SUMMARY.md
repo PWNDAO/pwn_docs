@@ -3,6 +3,8 @@
 * [What is PWN?](README.md)
 * [FAQ](faq.md)
 
+## 🔥 Guides
+
 ## 🧠 Fundamentals
 
 * [Permissionless design](fundamentals/permissionless-design.md)
@@ -25,3 +27,7 @@
 * [Discord](https://discord.gg/8WHnTj9HPn)
 * [Twitter](https://twitter.com/PWNFinance)
 * [Mirror](https://pwn.mirror.xyz)
+
+***
+
+* [🔒 Security](security.md)
