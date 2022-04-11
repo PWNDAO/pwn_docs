@@ -7,9 +7,9 @@
 
 ## 🧠 Fundamentals
 
-* [Permissionless design](fundamentals/permissionless-design.md)
 * [Peer-to-Peer lending](fundamentals/peer-to-peer-lending.md)
 * [LOAN token](fundamentals/loan-token.md)
+* [Permissionless design](fundamentals/permissionless-design.md)
 
 ## 📄 Governance
 
