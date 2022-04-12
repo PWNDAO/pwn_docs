@@ -11,3 +11,7 @@ PWN Protocol is deployed only on the Ethereum mainnet. Our designs allow us to e
 ### **What’s PWN’s problem with lending pools?**&#x20;
 
 A lending pool is the best invention since sliced bread - the DeFi ecosystem would quite literally not exist without it. However, since it’s optimised for liquidity you have to make trade-offs which lead to a reduced number of assets that are natively compatible with your protocol. Learn more about [peer-to-peer lending](fundamentals/peer-to-peer-lending.md).
+
+### What is a LOAN token?
+
+LOAN is NFT token that represents loan in PWN Protocol. Read more about [LOAN token](fundamentals/loan-token.md) in the [Fundamentals](broken-reference) section.
