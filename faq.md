@@ -6,7 +6,7 @@ We plan to charge a fee for each loan created on PWN, as well as a fee for secon
 
 ### **Which chains/ETH L2s is PWN planning to expand to?**&#x20;
 
-Our designs allow us to easily deploy the protocol essentially anywhere. We will follow the demand.
+PWN Protocol is deployed only on the Ethereum mainnet. Our designs allow us to easily deploy the protocol essentially anywhere. We will follow the demand.
 
 ### **What’s PWN’s problem with lending pools?**&#x20;
 
