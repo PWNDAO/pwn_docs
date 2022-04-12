@@ -5,6 +5,8 @@
 
 ## 🔥 Guides
 
+* [Using PWN with Gnosis Safe](guides/using-pwn-with-gnosis-safe.md)
+
 ## 🧠 Fundamentals
 
 * [Peer-to-Peer lending](fundamentals/peer-to-peer-lending.md)
