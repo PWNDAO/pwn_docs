@@ -18,11 +18,11 @@ On the left side, you see the Apps menu. That is where we are going to add the P
 
 ### 3. Now paste the _https://app.pwn.finance/_ URL.&#x20;
 
-![](../.gitbook/assets/Gnosis-3.png)
-
 {% hint style="info" %}
 Make sure there is not a # sign at the end of the URL since that will not work.
 {% endhint %}
+
+![](../.gitbook/assets/Gnosis-3.png)
 
 ### 4. Click _Add_
 
