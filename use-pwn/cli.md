@@ -4,4 +4,6 @@ description: For those shadowy super coders
 
 # CLI
 
-You can use PWN protocol without frontend. Please refer to our [**Developer documentation**](https://pwn-1.gitbook.io/developer-docs/) **** to learn everything you need to know before interacting with the protocol directly.
+**You can use the PWN protocol without a front-end.** Please refer to our [**Developer documentation**](https://pwn-1.gitbook.io/developer-docs/) **** to learn everything you need to know before interacting with the protocol directly.
+
+**We recommend Cast** as the go-to CLI tool. Read more information about Cast in the [Foundry documentation](https://book.getfoundry.sh/cast/index.html).
