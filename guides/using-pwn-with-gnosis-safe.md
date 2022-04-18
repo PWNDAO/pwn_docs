@@ -8,16 +8,20 @@ Multisig wallets are very common in the Ethereum ecosystem. PWN web application 
 
 ### 1. Go to the _Apps_ menu
 
-Now, we're looking at our gnosis safe. On the left side, you see the Apps menu. That is where we are going to add the PWN app to the multisig.
+On the left side, you see the Apps menu. That is where we are going to add the PWN app to the multisig.
 
-//there will be screen shots
+![](../.gitbook/assets/Gnosis-1.png)
 
 ### 2. Click the _Add custom app_ button
 
+![](../.gitbook/assets/Gnosis-2.png)
+
 ### 3. Now paste the _https://app.pwn.finance/_ URL.&#x20;
 
+![](../.gitbook/assets/Gnosis-3.png)
+
 {% hint style="info" %}
-Make sure there is not a # sign at the end of the URL since that will not work.&#x20;
+Make sure there is not a # sign at the end of the URL since that will not work.
 {% endhint %}
 
 ### 4. Click _Add_
