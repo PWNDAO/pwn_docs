@@ -1,5 +1,5 @@
 ---
-description: Welcome to the PWN Finance documentation
+description: Welcome to the PWN DAO documentation
 ---
 
 # What is PWN?
@@ -24,11 +24,11 @@ Register on the waitlist even if you have the POAP. Probably nothing.
 
 ### How is the documentation organized?
 
-Here is a high-level overview of our documentation, so you can find everything as soon as possible.
+Here is a high-level overview of our documentation, so you can find everything as quickly as possible.
 
 * **Guides** - See how can you use the PWN protocol.&#x20;
 * **Fundamentals** - You can learn about the core pillars PWN protocol stands on. We are here for the long run.
-* **Governance** - How does our governance works?
+* **Governance** - How does governance in PWN DAO work?
 * **Use** **PWN** - Try it out!
 * **Community** - The layer 0 and most important part of any product are its users.
 * **Security** - Audits & Bug bounty information
