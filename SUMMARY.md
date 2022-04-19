@@ -27,7 +27,7 @@
 ## ❤ Community
 
 * [Discord](https://discord.gg/8WHnTj9HPn)
-* [Twitter](https://twitter.com/PWNFinance)
+* [Twitter](https://twitter.com/PWNDAO)
 * [Mirror](https://pwn.mirror.xyz)
 
 ***
