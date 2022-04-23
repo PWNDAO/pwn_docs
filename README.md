@@ -26,10 +26,11 @@ Register on the waitlist even if you have the POAP. Probably nothing.
 
 Here is a high-level overview of our documentation, so you can find everything as quickly as possible.
 
+* ****[**FAQ**](faq.md) **** - Have a look at the most asked questions we get.
 * ****[**Guides**](broken-reference) - See how can you use the PWN protocol.&#x20;
 * ****[**Fundamentals**](broken-reference) - You can learn about the core pillars PWN protocol stands on. We are here for the long run.
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
-* ****[**Use** **PWN**](broken-reference) - Try it out!
-* ****[**Community**](broken-reference) - The layer 0 and most important part of any product are its users.
+* **Use** **PWN** - Try it out!
+* **Community** - The layer 0 and most important part of any product are its users.
 * ****[**Security**](security.md) **** - Audits & Bug bounty information
 * There is also [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN works under the hood please have a look there.&#x20;
