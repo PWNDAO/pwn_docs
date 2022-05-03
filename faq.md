@@ -1,9 +1,5 @@
 # FAQ
 
-{% hint style="info" %}
-Do you have a question that is not answered here? Ask us in the #support [discord](https://discord.gg/8WHnTj9HPn) channel, we are always happy to help you!
-{% endhint %}
-
 ### **Do you charge any fees?**&#x20;
 
 We plan to charge a fee for each loan created on PWN, as well as a fee for secondary deed sales. The current model is free of fees to support faster product adoption.
@@ -19,3 +15,7 @@ A lending pool is the best invention since sliced bread - the DeFi ecosystem wou
 ### What is a LOAN token?
 
 LOAN is NFT token that represents loan in PWN Protocol. Read more about [LOAN token](fundamentals/loan-token.md) in the [Fundamentals](broken-reference) section.
+
+{% hint style="info" %}
+Do you have a question that is not answered here? Ask us in the #support [discord](https://discord.gg/8WHnTj9HPn) channel, we are always happy to help you!
+{% endhint %}
