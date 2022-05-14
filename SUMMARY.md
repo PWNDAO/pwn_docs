@@ -28,8 +28,4 @@
 
 * [Discord](https://discord.gg/8WHnTj9HPn)
 * [Twitter](https://twitter.com/PWNDAO)
-* [Mirror](https://pwn.mirror.xyz)
-
-***
-
-* [🔒 Security](security.md)
+* [Mirror](https://pwn.mirror.xyz/)

@@ -1,5 +1,0 @@
-# 🔒 Security
-
-## Audits
-
-## Bug Bounties

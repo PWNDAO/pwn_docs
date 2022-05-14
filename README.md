@@ -32,5 +32,5 @@ Here is a high-level overview of our documentation, so you can find everything a
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
 * **Use** **PWN** - Try it out!
 * **Community** - The layer 0 and most important part of any product are its users.
-* ****[**Security**](security.md) **** - Audits & Bug bounty information
+* ****[**Security**](broken-reference) **** - Audits & Bug bounty information
 * There is also [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN works under the hood please have a look there.&#x20;
