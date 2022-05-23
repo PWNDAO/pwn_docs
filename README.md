@@ -27,6 +27,5 @@ Here is a high-level overview of our documentation, so you can find everything a
 * ****[**Fundamentals**](broken-reference) - You can learn about the core pillars PWN protocol stands on. We are here for the long run.
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
 * **Use** **PWN** - Try it out!
-* **Community** - The layer 0 and most important part of any product are its users.
-* ****[**Security**](broken-reference) **** - Audits & Bug bounty information
-* There is also [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN protocol works under the hood please have a look there.&#x20;
+* **Community** - The layer 0 and the most important part of anything is the community.&#x20;
+* There is also a [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN protocol works under the hood please have a look there.&#x20;
