@@ -1,5 +1,5 @@
 ---
-description: Welcome to the PWN DAO documentation
+description: Welcome to the PWN documentation
 ---
 
 # What is PWN?
@@ -26,6 +26,6 @@ Here is a high-level overview of our documentation, so you can find everything a
 * ****[**Guides**](broken-reference) - See how can you use the PWN platform.&#x20;
 * ****[**Fundamentals**](broken-reference) - You can learn about the core pillars PWN protocol stands on. We are here for the long run.
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
-* **Use** **PWN** - Try it out!
-* **Community** - The layer 0 and the most important part of anything is the community.&#x20;
-* There is also a [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN protocol works under the hood please have a look there.&#x20;
+* ****[**Use** **PWN**](https://app.pwn.finance/) - Try it out!
+* ****[**Community**](https://discord.gg/8WHnTj9HPn) - The layer 0 and the most important part of anything is the community.&#x20;
+* There is also [**developer documentation**](https://pwn-1.gitbook.io/developer-docs/). If you're a developer and want to understand how PWN protocol works under the hood have a look there.&#x20;
