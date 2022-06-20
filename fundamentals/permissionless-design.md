@@ -4,14 +4,14 @@ description: Everyone is welcomed!
 
 # Permissionless design
 
-Permissionless can seem like a buzzword, but for us, it's a core concept that we stand behind. So what does it mean in the context of PWN protocol?
+Permissionless can seem like a buzzword, but for us, it's a core concept that we stand behind. So what does it mean in the context of the PWN protocol?
 
-### Use any asset as a collateral
+### Use any asset as collateral
 
-Permissionless design is built in the core nature of our protocol. There are no limitations of what token you want to use as collateral. **Currently, we support ERC-721, ERC-1155 and ERC-20 tokens.**
+Permissionless design is built into the core nature of our protocol. That means you can use any standard token as collateral. **Currently, we support ERC-721, ERC-1155 and ERC-20 standards.**
 
 {% hint style="warning" %}
 #### With great power comes great responsibility
 
-We won't tell you what interest should you agree on or who should you borrow your funds to. We are doing everything in our power to protect our users from scams, but please, **be sure to check you're interacting with genuine assets when you use our protocol.**
+PWN provides a secure protocol; what our users borrow or lend is up to them. Be sure to double-check that you're interacting with a genuine asset before you submit any transaction.
 {% endhint %}

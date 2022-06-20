@@ -16,12 +16,12 @@
 ## 📄 Governance
 
 * [Our approach](governance/our-approach.md)
-* [Forum](https://forum.pwn.finance)
+* [Forum](https://forum.pwn.finance/)
 * [Snapshot](https://snapshot.org/#/pwnfinance.eth)
 
 ## 👉 Use PWN
 
-* [App](https://app.pwn.finance)
+* [App](https://app.pwn.xyz)
 * [CLI](use-pwn/cli.md)
 
 ## ❤ Community

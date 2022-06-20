@@ -1,10 +1,10 @@
 ---
-description: How to use PWN web application with Gnosis Safe?
+description: How to use the PWN web application with Gnosis Safe?
 ---
 
 # Using PWN with Gnosis Safe
 
-Multisig wallets are very common in the Ethereum ecosystem. PWN web application has support for Gnosis Safe multisig. In this guide, **we will go through the process of adding PWN to your Gnosis Safe wallet.**&#x20;
+Multisig wallets are very common in the Ethereum ecosystem. The PWN web application has support for Gnosis Safe multisig. In this guide, **we will go through the process of adding PWN to your Gnosis Safe wallet.**&#x20;
 
 ### 1. Go to the _Apps_ menu
 
