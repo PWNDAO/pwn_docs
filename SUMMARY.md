@@ -6,7 +6,6 @@
 ## 🔥 Guides
 
 * [Taking out a loan](guides/taking-out-a-loan.md)
-* [Using PWN with Gnosis Safe](guides/using-pwn-with-gnosis-safe.md)
 
 ## 🧠 Fundamentals
 
