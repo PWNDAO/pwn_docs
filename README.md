@@ -18,9 +18,9 @@ See [Guides](broken-reference) for more information on how to use the platform.
 
 Here is a high-level overview of our documentation so that you can find everything as quickly as possible.
 
-* ****[**FAQ**](broken-reference) **** - Have a look at the most asked questions we get.
+* ****[**FAQ**](https://pwn.xyz/) **** - Have a look at the most asked questions we get.
+* [**Developer documentation**](https://dev-docs.pwn.xyz/) **** - Inner workings of PWN protocol.
 * ****[**Guides**](broken-reference) - See how to use the PWN platform.&#x20;
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
-* ****[**Use** **PWN**](https://app.pwn.finance/) - Try it out!
+* ****[**Use** **PWN**](https://app.pwn.xyz) - Try it out!
 * ****[**Community**](https://discord.gg/8WHnTj9HPn) - Layer 0 and the most important part of anything is the community.&#x20;
-* [**Developer documentation**](https://pwn-1.gitbook.io/developer-docs/) **** - Inner workings of PWN protocol.
