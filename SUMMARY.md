@@ -1,17 +1,12 @@
 # Table of contents
 
 * [What is PWN?](README.md)
-* [FAQ](faq.md)
+* [FAQ](https://pwndao.gitbook.io/faq/)
+* [Developer documentation](https://dev-docs.pwn.xyz/)
 
 ## 🔥 Guides
 
 * [Taking out a loan](guides/taking-out-a-loan.md)
-
-## 🧠 Fundamentals
-
-* [Peer-to-Peer lending](fundamentals/peer-to-peer-lending.md)
-* [Permissionless design](fundamentals/permissionless-design.md)
-* [LOAN token](fundamentals/loan-token.md)
 
 ## 📄 Governance
 
