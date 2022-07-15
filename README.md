@@ -4,11 +4,7 @@ description: Welcome to the PWN documentation
 
 # What is PWN?
 
-PWN is a decentralized and permissionless DeFi application. **Unlock the full potential of your assets** such as in-game collectibles, art or ERC-20 tokens - all without the risk of liquidation and with fixed interest.
-
-### **What problem does PWN solve?**
-
-Traditional DeFi lending platforms enable you to leverage only a few selected tokens. With PWN, you can use all kinds of assets. **You can borrow against assets that are not supported by pool-based lending platforms.** For example, NFTs like collectibles from play-to-earn games or any ERC-20 tokens are supported as collateral.
+PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users to borrow and **lend digital assets backed by any other digital assets**. Borrowers can receive a loan of ERC-20 tokens backed by their own ERC-20 tokens or NFTs, and lenders can earn interest on their tokens by granting these loans. This process is managed by smart contracts that are completely **trustless and decentralized**.
 
 ![](.gitbook/assets/image.png)
 
