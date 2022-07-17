@@ -21,6 +21,6 @@
 
 ## ❤ Community
 
-* [Discord](https://discord.gg/8WHnTj9HPn)
+* [Discord](https://discord.gg/D8DcwBtqgM)
 * [Twitter](https://twitter.com/PWNDAO)
 * [Mirror](https://pwn.mirror.xyz/)

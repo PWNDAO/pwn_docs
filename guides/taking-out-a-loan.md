@@ -4,7 +4,7 @@ description: How to borrow on PWN?
 
 # Taking out a loan
 
-Taking out a loan is one of the most common interactions with PWN. Throughout this guide, **we will guide you through the process of taking out a loan using the PWN platform**.
+Taking out a loan is one of the most common interactions with PWN. Throughout this guide, **we will guide you through the process of taking out a loan using the** [**PWN platform**](https://app.pwn.xyz/).
 
 Let's define a few terms before we start:
 
