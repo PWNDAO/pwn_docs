@@ -4,7 +4,7 @@ description: How to borrow on PWN?
 
 # Taking out a loan
 
-Taking out a loan is one of the most common interactions with PWN. Throughout this guide, **we will guide you through the process of taking out a loan using the** [**PWN platform**](https://app.pwn.xyz/).
+Taking out a loan is one of the most common interactions with PWN. Throughout this guide, **we will guide you through the process of taking out a loan using the PWN platform**.
 
 Let's define a few terms before we start:
 
@@ -15,7 +15,7 @@ Let's define a few terms before we start:
 This tutorial assumes you are logged in PWN platform with your web3 wallet like metamask. If you have any problems doing that, don't hesitate to contact us on our [discord](https://discord.gg/8WHnTj9HPn).
 {% endhint %}
 
-This guide is divided into three parts:
+This guide will is divided into three parts:
 
 * Signalling a desire to take out a loan
 * Accepting an offer from a lender
