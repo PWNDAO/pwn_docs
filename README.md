@@ -10,7 +10,7 @@ PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users
 
 ### How do I get started with PWN?
 
-The most convenient way to use the PWN protocol is via our custom [PWN Platform](https://app.pwn.finance).
+The most convenient way to use the PWN protocol is via our custom [**PWN Platform**](https://app.pwn.finance).
 
 See [Guides](broken-reference) for more information on how to use the platform.
 
