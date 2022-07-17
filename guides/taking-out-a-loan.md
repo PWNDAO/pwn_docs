@@ -15,7 +15,7 @@ Let's define a few terms before we start:
 This tutorial assumes you are logged in PWN platform with your web3 wallet like metamask. If you have any problems doing that, don't hesitate to contact us on our [discord](https://discord.gg/8WHnTj9HPn).
 {% endhint %}
 
-This guide will is divided into three parts:
+This guide is divided into three parts:
 
 * Signalling a desire to take out a loan
 * Accepting an offer from a lender

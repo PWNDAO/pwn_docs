@@ -7,6 +7,7 @@
 ## 🔥 Guides
 
 * [Taking out a loan](guides/taking-out-a-loan.md)
+* [Lending](guides/lending.md)
 
 ## 📄 Governance
 
