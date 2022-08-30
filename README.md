@@ -1,5 +1,6 @@
 ---
 description: Welcome to the PWN documentation
+layout: landing
 ---
 
 # What is PWN?
