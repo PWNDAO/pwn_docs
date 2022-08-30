@@ -4,6 +4,12 @@
 * [FAQ](https://pwndao.gitbook.io/faq/)
 * [Developer documentation](https://dev-docs.pwn.xyz/)
 
+## ❤ Community
+
+* [Discord](https://discord.gg/D8DcwBtqgM)
+* [Twitter](https://twitter.com/PWNDAO)
+* [Mirror](https://pwn.mirror.xyz/)
+
 ## 💁 Guides
 
 * [How to access the PWN platform on Polygon](https://youtu.be/qz93D2cvZv4)
@@ -19,12 +25,6 @@
 
 * [App](https://app.pwn.xyz)
 * [CLI](use-pwn/cli.md)
-
-## ❤ Community
-
-* [Discord](https://discord.gg/D8DcwBtqgM)
-* [Twitter](https://twitter.com/PWNDAO)
-* [Mirror](https://pwn.mirror.xyz/)
 
 ## 📄 PWN DAO
 
