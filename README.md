@@ -4,7 +4,7 @@ description: Welcome to the PWN documentation
 
 # What is PWN?
 
-PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users to borrow and **lend digital assets backed by any other digital assets**. Borrowers can receive a loan of ERC-20 tokens backed by their own ERC-20 tokens or NFTs, and lenders can earn interest on their tokens by granting these loans. This process is managed by smart contracts that are completely **trustless and decentralized**.
+PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users to **borrow and lend digital assets backed by any other digital assets**. Borrowers can receive a loan of ERC-20 tokens backed by their own ERC-20 tokens or NFTs, and lenders can earn interest on their tokens by granting these loans. This process is managed by smart contracts that are completely **trustless, decentralized and immutable**.
 
 ![](.gitbook/assets/image.png)
 
@@ -12,7 +12,7 @@ PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users
 
 The most convenient way to use the PWN protocol is via our custom [**PWN Platform**](https://app.pwn.finance).
 
-See [Guides](broken-reference) for more information on how to use the platform.
+See our video [Guides](broken-reference) for more information on how to use the platform.
 
 ### How is the documentation organized?
 
