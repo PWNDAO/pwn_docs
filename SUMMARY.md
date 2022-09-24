@@ -17,6 +17,7 @@
   * [Repay your loans on PWN](https://youtu.be/PoscSGAyljo)
 * [Tools](guides/tools/README.md)
   * [Token bundler](guides/tools/token-bundler.md)
+* [Asset verification](guides/asset-verification.md)
 * [How to access the PWN platform on Polygon](https://youtu.be/qz93D2cvZv4)
 
 ## 👉 Use PWN
