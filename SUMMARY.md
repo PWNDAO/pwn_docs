@@ -4,12 +4,6 @@
 * [FAQ](https://pwndao.gitbook.io/faq/)
 * [Developer documentation](https://dev-docs.pwn.xyz/)
 
-## ❤ Community
-
-* [Discord](https://discord.gg/D8DcwBtqgM)
-* [Twitter](https://twitter.com/PWNDAO)
-* [Mirror](https://pwn.mirror.xyz/)
-
 ## 💁 Guides
 
 * [For lenders](guides/for-lenders/README.md)
@@ -35,3 +29,9 @@
 * [Governance](pwn-dao/our-approach.md)
 * [Forum](https://forum.pwn.finance/)
 * [Snapshot](https://snapshot.org/#/pwnfinance.eth)
+
+## ❤ Community
+
+* [Discord](https://discord.gg/D8DcwBtqgM)
+* [Twitter](https://twitter.com/PWNDAO)
+* [Mirror](https://pwn.mirror.xyz/)
