@@ -10,7 +10,7 @@ PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users
 
 ### How do I get started with PWN?
 
-The most convenient way to use the PWN protocol is via our custom [**PWN Platform**](https://app.pwn.finance).
+The most convenient way to use the PWN protocol is via our custom [**PWN Platform**](https://app.pwn.xyz/).
 
 See our video [Guides](broken-reference) for more information on how to use the platform.
 
@@ -20,7 +20,7 @@ Here is a high-level overview of our documentation so that you can find everythi
 
 * ****[**FAQ**](https://faq.pwn.xyz/) **** - Have a look at the most asked questions we get.
 * [**Developer documentation**](https://dev-docs.pwn.xyz/) **** - Inner workings of PWN protocol.
-* ****[**Guides**](https://youtube.com/playlist?list=PL3WXMh-W\_dwRCtfu36ULkkr8Rzta5oZ-v) - See how to use the PWN platform.&#x20;
+* ****[**Guides**](broken-reference) - See how to use the PWN platform.&#x20;
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
 * ****[**Use** **PWN**](https://app.pwn.xyz) - Try it out!
 * ****[**Community**](https://discord.gg/SB9XXQqJUT) - Layer 0 and the most important part of anything is the community.&#x20;
