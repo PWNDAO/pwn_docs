@@ -15,7 +15,10 @@
   * [How to post an offer on PWN](https://youtu.be/4P1db10EgEw)
   * [Cancel an offer on PWN](https://youtu.be/yAEWutfTdYY)
   * [Claiming repayment](https://youtu.be/aBQs7rscIgs)
+* [Tools](guides/tools/README.md)
+  * [Token bundler](guides/tools/token-bundler.md)
 * [Verification Guide](guides/verification-guide.md)
+* [Token verification lists 101](guides/token-verification-lists-101.md)
 * [How to access the PWN platform on Polygon](https://youtu.be/qz93D2cvZv4)
 
 ## 👉 Use PWN
