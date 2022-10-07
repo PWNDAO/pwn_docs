@@ -1,12 +1,12 @@
 # Token verification lists 101
 
-The unfortunate truth is that the crypto industry has plenty of scam tokens and projects. PWN’s community does our best to equip ourselves with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
+The unfortunate truth is that the crypto industry has plenty of [scam tokens and projects](https://pwn.mirror.xyz/t4YN-IJMBCshqAm\_UY6D0DZgve6sbkuJpXLUbZoezro). PWN’s community does our best to equip ourselves with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
 
 Today, let’s explore how the industry attempts to fight scams by implementing token lists.&#x20;
 
 ### The importance of token lists
 
-Introduced by Uniswap Labs, token lists are lists of fungible (ERC-20) tokens maintained by projects such as Uniswap, Coingecko, and many others. These projects attach their reputation to lists by hosting them on a domain that they control.
+[Introduced by Uniswap Labs](https://uniswap.org/blog/token-lists), token lists are lists of fungible (ERC-20) tokens maintained by projects such as Uniswap, Coingecko, and many others. These projects attach their reputation to lists by hosting them on a domain that they control.
 
 Because token lists are standardized, they allow for integration across multiple different platforms (front-ends).&#x20;
 
