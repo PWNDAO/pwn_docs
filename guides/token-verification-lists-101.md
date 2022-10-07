@@ -1,6 +1,6 @@
 # Token verification lists 101
 
-The unfortunate truth is that the crypto industry has plenty of [scam tokens and projects](https://pwn.mirror.xyz/t4YN-IJMBCshqAm\_UY6D0DZgve6sbkuJpXLUbZoezro). PWN’s community does our best to equip ourselves with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
+The unfortunate truth is that the crypto industry has plenty of [scam tokens and projects](verification-guide.md). PWN’s community does our best to equip ourselves with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
 
 Today, let’s explore how the industry attempts to fight scams by implementing token lists.&#x20;
 
