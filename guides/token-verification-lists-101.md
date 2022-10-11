@@ -36,6 +36,10 @@ PWN’s 💩 filter (yes, that’s the name of the feature) is another use case 
 
 #### Opensea - As of now not opensource
 
-#### PWN - As of now not opensource
+_Coming soon:_
+
+#### PWN
+
+**LooksRare**
 
 </details>
