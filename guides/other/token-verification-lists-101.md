@@ -1,6 +1,6 @@
 # Token verification lists 101
 
-The unfortunate truth is that the crypto industry has plenty of [scam tokens and projects](verification-guide.md). PWN’s community does our best to equip ourselves with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
+The unfortunate truth is that the crypto industry has plenty of [scam tokens and projects](verification-guide.md). PWN’s community does its best to equip itself with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
 
 Today, let’s explore how the industry attempts to fight scams by implementing token lists.&#x20;
 
@@ -16,7 +16,7 @@ In the case of NFTs, things can get a bit more complicated, as the market is not
 
 While there are no standardized NFT lists, NFT marketplaces such as OpenSea usually offer project verification on their marketplace.
 
-Any NFT project can apply for a verification badge on OpenSea, LooksRare, and other sites. These marketplaces then verify the projects based on their criteria and give or deny them the verification badge. Using token lists on the PWN platform PWN checks the most popular and trusted lists and display a verification badge alongside each asset. This is done in order to make it easy to see if an asset is verified as well as which project provided the verification.
+Any NFT project can apply for a verification badge on OpenSea, LooksRare, and other sites. These marketplaces then verify the projects based on their criteria and give or deny them the verification badge. Using token lists on the PWN platform, PWN checks the most popular and trusted lists and displays a verification badge alongside each asset. This is done to make it easy to see if an asset is verified and which project provided the verification.
 
 ### Let’s talk about 💩!
 
@@ -36,9 +36,11 @@ PWN’s 💩 filter (yes, that’s the name of the feature) is another use case 
 
 #### Opensea - As of now not opensource
 
-_Coming soon:_
 
-#### PWN
+
+_Coming soon:_&#x20;
+
+**PWN**&#x20;
 
 **LooksRare**
 
