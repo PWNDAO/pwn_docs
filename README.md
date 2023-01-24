@@ -23,4 +23,4 @@ Here is a high-level overview of our documentation so that you can find everythi
 * ****[**Guides**](broken-reference) - See how to use the PWN platform.&#x20;
 * ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
 * ****[**Use** **PWN**](https://app.pwn.xyz) - Try it out!
-* ****[**Community**](https://discord.gg/SB9XXQqJUT) - Layer 0 and the most important part of anything is the community.&#x20;
+* ****[**Community**](https://discord.gg/aWghBQSdHv) - Layer 0 and the most important part of anything is the community.&#x20;

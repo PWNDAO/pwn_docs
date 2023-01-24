@@ -58,4 +58,4 @@ Another good indicator of contract legitimacy is its transaction count. Usually,
 
 We’ve taken a look at a number of steps that you can take to ensure a token’s legitimacy. If you’ve checked everything according to this guide, it’s reasonable to assume that you’re dealing with a genuine token.
 
-As we said in the beginning, even if a particular token is genuine, it doesn’t mean that it’s valuable! If you’re still unsure about token legitimacy, feel free to get in touch with PWN on our [Discord server](https://discord.com/invite/pwndao). After all, it’s always better to ask questions than to get scammed, which can be a costly lesson.
+As we said in the beginning, even if a particular token is genuine, it doesn’t mean that it’s valuable! If you’re still unsure about token legitimacy, feel free to get in touch with PWN on our [Discord server](https://discord.gg/aWghBQSdHv). After all, it’s always better to ask questions than to get scammed, which can be a costly lesson.
