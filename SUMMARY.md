@@ -28,3 +28,5 @@
 * [Discord](https://discord.gg/aWghBQSdHv)
 * [Twitter](https://twitter.com/PWNDAO)
 * [Mirror](https://pwn.mirror.xyz/)
+* [YouTube](https://www.youtube.com/@pwndaoxyz)
+* [Instagram](https://www.instagram.com/pwndao/)
