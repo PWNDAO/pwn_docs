@@ -18,9 +18,9 @@ See our video [Guides](broken-reference) for more information on how to use the 
 
 Here is a high-level overview of our documentation so that you can find everything as quickly as possible.
 
-* ****[**FAQ**](https://faq.pwn.xyz/) **** - Have a look at the most asked questions we get.
-* [**Developer documentation**](https://dev-docs.pwn.xyz/) **** - Inner workings of PWN protocol.
-* ****[**Guides**](broken-reference) - See how to use the PWN platform.&#x20;
-* ****[**Governance**](broken-reference) - How does governance in PWN DAO work?
-* ****[**Use** **PWN**](https://app.pwn.xyz) - Try it out!
-* ****[**Community**](https://discord.gg/aWghBQSdHv) - Layer 0 and the most important part of anything is the community.&#x20;
+* [**FAQ**](https://faq.pwn.xyz/) - Have a look at the most asked questions we get.
+* [**Developer documentation**](https://dev-docs.pwn.xyz/) - Inner workings of PWN protocol.
+* [**Guides**](broken-reference) - See how to use the PWN platform.&#x20;
+* [**Governance**](broken-reference) - How does governance in PWN DAO work?
+* [**Use** **PWN**](https://app.pwn.xyz) - Try it out!
+* [**Community**](https://discord.gg/aWghBQSdHv) - Layer 0 and the most important part of anything is the community.&#x20;
