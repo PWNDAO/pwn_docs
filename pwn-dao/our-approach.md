@@ -1,11 +1,5 @@
----
-description: Your voice matters
----
+# Overview
 
-# Governance
+Currently, we do not have a complete decentralized governance solution or governance token. We are in the process of forming a DAO and this page will be updated in the coming months. In the meantime, you can read more about the PWN DAO in one of our mirror articles.
 
-We are committed to providing the best user experience possible and don't believe in deciding everything behind closed doors. That is why **we have a** [**forum**](https://forum.pwn.finance/) where users can discuss anything PWN-related. PWN team members are active on the forum so that you can talk to us about your needs. **We also have a** [**snapshot**](https://snapshot.org/#/pwnfinance.eth), where our users can vote.
-
-{% hint style="info" %}
-As of now, we do not have a complete decentralized governance solution or governance token. We are in the process of forming a DAO and this page will be updated in the coming months.&#x20;
-{% endhint %}
+{% embed url="https://pwn.mirror.xyz/_sIKCqQJ52O3AnUV1l2Z1uV-9GlioLTHSzVi1gWo7Y8" %}

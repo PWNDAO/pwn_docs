@@ -28,7 +28,7 @@ There’s a website called [tokensniffer.com](https://tokensniffer.com/) which c
 
 <figure><img src="https://lh6.googleusercontent.com/Apu2RAjflzqmosYoWqR8AIcrTppPX2e_4JQO_gv0UAv_UTVVzwyvPFNtlQCR5iiRIoGJ_I6pfjZY9hsOEMZAQpjuHDGQTe35aQcKSQOtLU1sVVN2nk9RTmfa5_qbH_17bLDjKR240nSCcm67o1qcCwhogZ6US1ypUSx89o-EbNK6hf5Z_iSF51Do" alt=""><figcaption></figcaption></figure>
 
-It’s important to be aware of the fact that even if the warning notification shown above isn’t present, it doesn’t necessarily mean that you’re dealing with a genuine token. Another critical thing to check here is the token’s liquidity. Genuine tokens will usually have at least a few Ether in liquidity or, ideally, much more than that.
+It’s important to be aware of the fact that even if the warning notification shown above isn’t present, it doesn’t necessarily mean that you’re dealing with a genuine token. Another critical thing to check here is the token’s liquidity. Genuine tokens will usually have at least a few ethers in liquidity or, ideally, much more than that.
 
 ### Etherscan comments
 

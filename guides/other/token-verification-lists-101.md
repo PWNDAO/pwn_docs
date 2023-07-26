@@ -2,7 +2,7 @@
 
 The unfortunate truth is that the crypto industry has plenty of [scam tokens and projects](verification-guide.md). PWN’s community does its best to equip itself with the knowledge and prevention methods necessary to combat these scams on multiple fronts.
 
-Today, let’s explore how the industry attempts to fight scams by implementing token lists.&#x20;
+Let’s explore how the industry attempts to fight scams by implementing token lists.&#x20;
 
 ### The importance of token lists
 
@@ -14,15 +14,13 @@ Because token lists are standardized, they allow for integration across multiple
 
 In the case of NFTs, things can get a bit more complicated, as the market is not as mature as that of the ERC-20 standard.
 
-While there are no standardized NFT lists, NFT marketplaces such as OpenSea usually offer project verification on their marketplace.
+To the best of our knowledge, there are no standardized NFT lists, NFT marketplaces such as OpenSea usually offer project verification on their marketplace.
 
 Any NFT project can apply for a verification badge on OpenSea, LooksRare, and other sites. These marketplaces then verify the projects based on their criteria and give or deny them the verification badge. Using token lists on the PWN platform, PWN checks the most popular and trusted lists and displays a verification badge alongside each asset. This is done to make it easy to see if an asset is verified and which project provided the verification.
 
 ### Let’s talk about 💩!
 
-PWN’s 💩 filter (yes, that’s the name of the feature) is another use case for the token lists that are used on the PWN platform. You can easily switch between showing and hiding unverified assets so you don’t get overwhelmed by assets that don’t interest you.
-
-<figure><img src="https://lh6.googleusercontent.com/wjzoln3-aG6wEVUPiYYzEWIeLbRROVK0xKO1k3k-KOTg6TszUZXCN3WJxTYRur0Y85D46zOBzXU8Yy7Ozg-CwA1lBp-XMsgUeWg3wrEtEt0uwKNCGFhKFICSZew_qLxlH3jwdm6UB_Kjqd1zHA1DO1LmcgIMWINLhFWR6uUlvCJ4QA_7CXU2NyuE" alt=""><figcaption></figcaption></figure>
+PWN’s 💩 filter (yes, that’s the name of the feature) is another use case for the token lists that are used on the PWN platform. You can easily switch between showing and hiding 💩 assets so you don’t get overwhelmed by assets that don’t interest you. The filter also checks the requested loan-to-value ratio and hides loan requests that don't make sense. You can turn off the 💩 filter in the right top corner right next to the chain selector.
 
 <details>
 
@@ -35,13 +33,5 @@ PWN’s 💩 filter (yes, that’s the name of the feature) is another use case 
 #### [Polygon](https://github.com/maticnetwork/polygon-token-list)
 
 #### Opensea - As of now not opensource
-
-
-
-_Coming soon:_&#x20;
-
-**PWN**&#x20;
-
-**LooksRare**
 
 </details>

@@ -30,9 +30,7 @@
 
 ## 📄 PWN DAO
 
-* [Governance](pwn-dao/our-approach.md)
-* [Forum](https://forum.pwn.finance/)
-* [Snapshot](https://snapshot.org/#/pwnfinance.eth)
+* [Overview](pwn-dao/our-approach.md)
 
 ## ❤ Community
 
