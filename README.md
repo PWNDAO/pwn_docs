@@ -6,7 +6,7 @@ description: Welcome to the PWN documentation
 
 **PWN is a peer-to-peer lending protocol designed for long-term mortgage-like loans of digital assets, backed by other digital assets.** Borrowers can receive a fixed-duration loan of fungible tokens backed by fungible or non-fungible tokens, while lenders can earn interest by granting these loans. The protocol is **trustless, immutable, operates without the need for oracles, and without protocol-managed liquidations**.
 
-The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Base, Cronos and Mantle**.
+The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Arbitrum, Base, Cronos and Mantle**.
 
 <figure><img src=".gitbook/assets/How PWN works (1).png" alt=""><figcaption></figcaption></figure>
 
