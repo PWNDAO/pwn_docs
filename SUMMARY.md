@@ -1,7 +1,12 @@
 # Table of contents
 
 * [What is PWN?](README.md)
-* [FAQ](https://pwndao.gitbook.io/faq/)
+* [FAQ](faq/README.md)
+  * [Introduction to PWN](faq/introduction-to-pwn.md)
+  * [Earning as a lender on PWN](faq/earning-as-a-lender-on-pwn.md)
+  * [Borrowing](faq/borrowing.md)
+  * [Collateral and loan terms](faq/collateral-and-loan-terms.md)
+  * [On-chain features](faq/on-chain-features.md)
 * [Developer documentation](https://dev-docs.pwn.xyz/)
 
 ## 💁 Guides
