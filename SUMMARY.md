@@ -14,7 +14,7 @@
 * [Borrowers](guides/borrowers/README.md)
   * [How to create a loan request](https://youtu.be/qFC0Vc61mpA)
   * [Accept offers and activate loans on PWN](https://youtu.be/7LwN0VVIM4U)
-  * [Repay your loans on PWN](https://youtu.be/7LwN0VVIM4U)
+  * [Repay your loans on PWN](https://www.youtube.com/watch?v=IQKW9ocVKe4)
 * [Lenders](guides/lenders/README.md)
   * [Finding loans on PWN](https://youtu.be/X5qugNbCwpg)
   * [How to post an offer on PWN](https://youtu.be/IfE0lcYwinY)
@@ -37,7 +37,7 @@
 
 * [Overview](pwn-dao/our-approach.md)
 
-## ❤ Community
+## ❤️ Community
 
 * [Discord](https://discord.gg/aWghBQSdHv)
 * [Twitter](https://twitter.com/PWNDAO)
