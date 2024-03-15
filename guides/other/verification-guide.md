@@ -4,9 +4,9 @@ description: How to verify assets?
 
 # Verification Guide
 
-Welcome to the PWN Verification Guide! This document will show you how to identify legitimate assets and recognize scams.
+Welcome to the PWN Verification Guide! This document will show you how to identify legitimate assets and spot scams.
 
-Before we get to the guide, we must make something clear: The fact that an asset is verified doesn’t mean that it’s valuable. Yes, you might be interacting with a genuine asset, but that doesn’t say anything about the asset’s underlying value. Keep that in mind when pricing the assets.
+Before we get to the guide, we must make something clear: The fact that an asset is verified doesn’t mean that it’s valuable. Yes, you might be interacting with a genuine asset, but that doesn’t say anything about its underlying value. Keep that in mind before accepting any offer.&#x20;
 
 ### Verifying token contract addresses
 

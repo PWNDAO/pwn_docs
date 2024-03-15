@@ -1,28 +1,20 @@
----
-description: Welcome to the PWN documentation
----
+# Welcome to PWN
 
-# What is PWN?
+[**PWN**](https://pwn.xyz/) **is a peer-to-peer permissionless lending protocol**.&#x20;
 
-**PWN is a peer-to-peer lending protocol designed for long-term mortgage-like loans of digital assets, backed by other digital assets.** Borrowers can receive a fixed-duration loan of fungible tokens backed by fungible or non-fungible tokens, while lenders can earn interest by granting these loans. The protocol is **trustless, immutable, operates without the need for oracles, and without protocol-managed liquidations**.
+In the true spirit of DeFi composability, PWN users can borrow against—or lend using—any asset in their wallet (ERC-20, NFT, and even a bundle of both), while enjoying absolute flexibility on the loan terms (LTV, duration, APR, etc.).&#x20;
 
-The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Arbitrum, Base, Cronos and Mantle**.
+The oracle-less nature of the protocol protects all PWN loans from price-based liquidations. The only way to lose collateral is to default on a loan.
+
+PWN opens up **new liquidity avenues, composability options, and leverage opportunities**, while giving its users both optimized **capital efficiency** and **predictability** on both sides of the loan. A win on all fronts.
+
+The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Arbitrum, Base, Binance Smart Chain, and Cronos.**
 
 <figure><img src=".gitbook/assets/How PWN works (1).png" alt=""><figcaption></figcaption></figure>
 
-### How do I get started with PWN?
+**How are the PWN docs organized?**
 
-The most convenient way to use the PWN protocol is via our custom [**PWN Platform**](https://app.pwn.xyz/).
-
-See our video [Guides](broken-reference) for more information on how to use the platform.
-
-### How is the documentation organized?
-
-Here is a high-level overview of our documentation so that you can find everything as quickly as possible.
-
-* [**FAQ**](https://faq.pwn.xyz/) - Have a look at the most asked questions we get.
-* [**Developer documentation**](https://dev-docs.pwn.xyz/) - Inner workings of PWN protocol.
-* [**Guides**](broken-reference) - See how to use the PWN platform.&#x20;
-* [**Governance**](broken-reference) - How does governance in PWN DAO work?
-* [**Use** **PWN**](https://app.pwn.xyz) - Try it out!
-* [**Community**](https://discord.gg/aWghBQSdHv) - Layer 0 and the most important part of anything is the community.&#x20;
+* [**FAQ**](faq.md)**:** Find an answer to all the questions you might ask yourself about PWN.
+* [**Guides**](broken-reference)**:** Your step-by-step tutorials to get the best out of PWN.&#x20;
+* [**PWN DAO**](broken-reference)**:** Learn more about the upcoming PWN DAO governance framework.&#x20;
+* [**Developer documentation**](https://dev-docs.pwn.xyz/)**:**  Discover the inner workings of PWN protocol.&#x20;
