@@ -16,7 +16,7 @@
   * [Claiming defaulted collateral](guides/lending-on-pwn/claiming-defaulted-collateral.md)
 * [Tools](guides/tools/README.md)
   * [PWN Bundler](guides/tools/pwn-bundler.md)
-  * [PWN Safe](https://pwnsafe.pwn.xyz/)
+  * [PWN Safe](https://pwn.mirror.xyz/ApKLt74i\_p3zJ8WbCLDqFb61UI92EU\_oBhmduFVJR4g)
 * [Other](guides/other/README.md)
   * [Verification Guide](guides/other/verification-guide.md)
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
