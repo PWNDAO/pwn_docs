@@ -32,7 +32,7 @@ You have the option to active instant funding, allowing lenders to accept your t
 
 Lenders can create loan offers for an NFT collection or a specific token. If you own that specific asset, you're free to accept the loan offer if the terms seem fair to you.&#x20;
 
-For a detailed step-by-step, [check out our guide](guides/borrowing-on-pwn/).
+For a detailed step-by-step, [check out our guide](../guides/borrowers/).
 
 ### How can I use PWN as a lender?&#x20;
 
@@ -42,7 +42,7 @@ You can also go for a more proactive approach by posting loan offers on collater
 
 In the event of a default, you can simply claim the collateral previously locked in the PWN protocol.\
 \
-For a detailed step-by-step, [check out our guide](guides/lending-on-pwn/).
+For a detailed step-by-step, [check out our guide](../guides/lenders/).
 
 ### How should I choose my lending terms?
 

@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Welcome to PWN](README.md)
-* [FAQ](faq.md)
+* [PWN Explained](README.md)
+* [FAQ](faq/README.md)
 
 ## 💁 Guides
 
-* [Borrowing on PWN](guides/borrowing-on-pwn/README.md)
+* [Borrowing on PWN](guides/borrowers/README.md)
   * [Creating a loan request](guides/borrowing-on-pwn/creating-a-loan-request.md)
   * [Borrowing from asset/collection page](guides/borrowing-on-pwn/borrowing-from-asset-collection-page.md)
   * [Repaying loans](guides/borrowing-on-pwn/repaying-loans.md)
-* [Lending on PWN](guides/lending-on-pwn/README.md)
+* [Lending on PWN](guides/lenders/README.md)
   * [Funding loans](guides/lending-on-pwn/funding-loans.md)
   * [Making token and collection offers](guides/lending-on-pwn/making-token-and-collection-offers.md)
   * [Claiming repayment](guides/lending-on-pwn/claiming-repayment.md)
