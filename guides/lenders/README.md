@@ -1,19 +1,21 @@
 # Lending on PWN
 
-Lending on PWN puts you in control. You pick the loans you want to fund or you counter with your terms.&#x20;
+### Lending on PWN puts you in control.&#x20;
 
-And most importantly, what you sign for is always what you get.
+### You're free to custom the loans you'd like to fund, or counter existing borrowing proposals with your terms.&#x20;
+
+### And most importantly, what you sign for is always what you get.
 
 {% content-ref url="../lending-on-pwn/funding-loans.md" %}
 [funding-loans.md](../lending-on-pwn/funding-loans.md)
 {% endcontent-ref %}
 
-{% content-ref url="../lending-on-pwn/making-token-and-collection-offers.md" %}
-[making-token-and-collection-offers.md](../lending-on-pwn/making-token-and-collection-offers.md)
+{% content-ref url="../lending-on-pwn/creating-a-lending-proposal.md" %}
+[creating-a-lending-proposal.md](../lending-on-pwn/creating-a-lending-proposal.md)
 {% endcontent-ref %}
 
-{% content-ref url="../lending-on-pwn/claiming-repayment.md" %}
-[claiming-repayment.md](../lending-on-pwn/claiming-repayment.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../lending-on-pwn/claiming-defaulted-collateral.md" %}

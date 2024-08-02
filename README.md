@@ -4,15 +4,15 @@ description: Welcome to the PWN docs
 
 # PWN Explained
 
-[**PWN**](https://pwn.xyz/) **is a universal, peer-to-peer, lending platform.**&#x20;
+[**PWN**](https://pwn.xyz/) **is a universal, peer-to-peer lending platform.**&#x20;
+
+_Use any token as collateral, invest in fixed-interest loans, and enjoy predictable returns, all without price-based liquidation risk._
 
 In the true spirit of DeFi composability, PWN users can borrow against—or lend using—any asset in their wallet (ERC-20, NFT, and even a bundle of both), while enjoying absolute flexibility on the loan terms (LTV, duration, APR, etc.).&#x20;
 
-The oracle-less nature of the protocol protects all PWN loans from price-based liquidations. The only way to lose collateral is to default on a loan.
+The oracle-less nature of the protocol protects all PWN loans from price-based liquidations. The only way to lose collateral is to miss the repayment deadline.
 
 PWN opens up **new liquidity avenues, composability options, and leverage opportunities**, while giving its users both optimized **capital efficiency** and **predictability** on both sides of the loan. A win on all fronts.
-
-Use any token as collateral, invest in fixed-interest loans, and enjoy predictable returns, all without price-based liquidation risk.
 
 PWN is:
 
@@ -23,7 +23,7 @@ PWN is:
 
 The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Arbitrum, Base, Binance Smart Chain, and Cronos.**
 
-<figure><img src=".gitbook/assets/How PWN works (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### Getting started with PWN.
 

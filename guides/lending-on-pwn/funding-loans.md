@@ -4,30 +4,33 @@ description: VIDEO EMBED
 
 # Funding loans
 
-Funding a loan on PWN is easy, predictable, and safe. As a lender, you're free to accept a borrower's terms or counter with your own. &#x20;
+### Funding a loan on PWN is easy, predictable, and safe. As a lender, you're free to accept a borrower's terms or counter with your own. &#x20;
 
-To fund a loan:
+There are several way to find loans to fund on PWN:&#x20;
 
-1. Go to the "[lend](https://app.pwn.xyz/#/lend)" section
-2. Find a loan request you like (pay close attention to LTV and interest—if it seems too good to be true, it probably is)
+**Browse pending borrowing proposals:**
 
-There are two way to fund a loan on PWN:
+1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
+2. Click on the "I want to lend" tab the left-hand side module.
 
-*   _Instant funding_
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-    * [Click the "instant funding" button](#user-content-fn-1)[^1]
-    * Approve asset to be lent
-    * Approve the asset transfer
+3. The borrowing proposals you can fund will have an active "Lend" button. All the others will be greyed.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+4. If you agree with the terms offered, click on the "Lend" button.
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Use the top module on the proposal page (**_**I want to lend against all assets**_**):**
+
+1. &#x20;_"All assets" will show all proposals for all assets in the the "I want to lend" tab_
+2. _"Select assets" lets you search for any asset. All relevant proposals will be pushed in the "I want to lend" tab_
+3. _"Stable/ETH" will only show borrowing proposals requesting ETH and stablecoins._
+4. If a proposal fits your terms, click on the "Lend" button.
 
 
-* _Loan offer_
-  1. Choose the lending terms you feel comfortable with (asset lent, LTV, APR, duration, offer expiration, etc.)
-  2. Approve the asset to be lent
-  3. Post offer
-  4. Once your offer is accepted by a borrower, you'll be notified on the platform
 
-**⚠️ The asset to be lent will stay in your wallet while the offer is active. If you move or swap it, the offer will become invalid.**
+**⚠️ The asset to be lent will stay in your wallet while the proposal is active. If you move or swap it, the proposal will become invalid.**
 
-
-
-[^1]: [Or K](https://app.gitbook.com/u/b2FZP0pbwSbzjYSYntO4zCgJSb43 "mention") mind confirming if this is indeed what the button is called (vs. "fund instantly")? thank you!
