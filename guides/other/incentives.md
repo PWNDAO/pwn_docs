@@ -10,7 +10,7 @@ coverY: 0
 
 **What Incentives Are Offered?**
 
-While PWN doesn’t have its own token, the platform will distribute _reputation points_, rewarding active usage and contributions to the PWN ecosystem.
+While PWN doesn’t have its own token, the platform will distribute [_reputation rewards_](incentives/reputation-rewards.md), rewarding active usage and contributions to the PWN ecosystem.
 
 Additionally, third-party incentives (points or tokens) will be distributed by selected projects integrated with PWN. Please note that PWN does not control or hold custody over these rewards, and they will be claimable according to the partner project's claiming processes.
 
