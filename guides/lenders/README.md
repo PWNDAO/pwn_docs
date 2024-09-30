@@ -14,8 +14,8 @@
 [creating-a-lending-proposal.md](../lending-on-pwn/creating-a-lending-proposal.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../lending-on-pwn/advanced-lending-features.md" %}
+[advanced-lending-features.md](../lending-on-pwn/advanced-lending-features.md)
 {% endcontent-ref %}
 
 {% content-ref url="../lending-on-pwn/claiming-defaulted-collateral.md" %}

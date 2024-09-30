@@ -3,11 +3,9 @@
 ### You don't have to wait for a borrowing proposal to be posted; you can proactively post loan offers on the collateral of your choice, and as always with PWN, on your very own terms.
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
-2. Click on "Lend" on the right-hand side module.
-
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-3. Pick a collateral and amount (tokens or NFTs).
+2. Click on "Lend" on the left-hand side module.
+3. Select "Atomic Proposal"
+4. Pick a collateral and amount (tokens or NFTs).
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt="" width="300"><figcaption></figcaption></figure>
 

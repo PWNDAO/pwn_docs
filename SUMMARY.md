@@ -13,6 +13,7 @@
 * [Lending on PWN](guides/lenders/README.md)
   * [Funding loans](guides/lending-on-pwn/funding-loans.md)
   * [Creating a lending proposal](guides/lending-on-pwn/creating-a-lending-proposal.md)
+  * [Advanced Lending Features](guides/lending-on-pwn/advanced-lending-features.md)
   * [Claiming defaulted collateral](guides/lending-on-pwn/claiming-defaulted-collateral.md)
   * [Offering a loan extension](guides/lending-on-pwn/offering-a-loan-extension.md)
 * [Tools](guides/tools/README.md)

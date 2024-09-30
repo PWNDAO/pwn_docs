@@ -18,28 +18,26 @@ Similar to other lending platforms, both lenders and borrowers will receive rewa
 
 #### Incentives for Borrowers
 
-Borrowers will earn incentives based on the value of the collateral locked in the escrow contract. Incentives will begin to accrue once the borrower’s proposal is accepted by a lender, or when the borrower accepts an active lending proposal.
+Borrowers will earn incentives based on the value of the credit and interest repaid. Incentives are earned when borrower repays a loan.
 
 Simply posting a borrowing proposal does _not_ qualify borrowers for incentives.
 
-In case of default (failure to repay the loan and interest), the collateral, along with any accrued rewards, will be transferred to the lender. Be sure to repay your loans on time to retain your rewards!
+In case of default (failure to repay the loan and interest), the collateral will be transferred to the lender and borrower doesn't earn any rewards. Be sure to repay your loans on time to retain your rewards!
 
 #### Incentives for Lenders
 
-Lenders will receive incentives based on the amount of capital lent (credit). These incentives will start accruing once a lender accepts a borrowing proposal, or when a borrower accepts the lender’s proposal.
+Lenders will receive incentives based on the amount of capital lent (credit). These incentives are earned once a lender accepts a borrowing proposal, or when a borrower accepts the lender’s proposal.
 
 Just posting a lending proposal does _not_ qualify lenders for incentives.
 
-As with borrowers, if a borrower defaults, the lender will receive the collateral and all accrued rewards from the borrower.
+If a borrower defaults, the lender will receive the collateral and keep the earned rewards.
 
 #### Example Scenario
 
-Project A decides to offer incentives for loans using their token ($ABC) as collateral. Both lenders and borrowers will be rewarded.
-
-* Mark wants to use $1,000 worth of $ABC as collateral to borrow 500 USDC.
-* James agrees to lend 500 USDC to Mark and accepts his proposal.
+* Mark wants to use $100,000 worth of $ABC as collateral to borrow 50,000 USDC with fixed interest of 10 %.
+* James agrees to lend 50,000 USDC to Mark and accepts his proposal.
 * Rewards will accrue as follows:
-  * Mark will be incentivized based on the $1,000 in $ABC he deposited as collateral.
-  * James will be incentivized based on the 500 USDC he lent.
+  * Mark will be incentivized based on the 50,000 USDC of credit and 5,000 USDC of interest. He'll earn 55 rep when he repays the loan.
+  * James will be incentivized based on the 50,000 USDC he lent and earn 50 rep when he funds the loan.
 
-If Mark fails to repay the loan, James will claim the $ABC collateral and any rewards that Mark has accrued.
+If Mark fails to repay the loan, James will keep his earned rewards and get to claim the $ABC collateral.
