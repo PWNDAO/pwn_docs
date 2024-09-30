@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Offering a loan extension
 
 ### A default is not the end of the story. As a lender, you can either [claim the collateral](claiming-defaulted-collateral.md), or offer a loan extension to your debtor, on your own terms.&#x20;

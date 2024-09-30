@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-2. Click on "Borrow" on the right-hand side module.
+2. Click on "Borrow" on the left-hand side module.
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt="" width="563"><figcaption></figcaption></figure>
 

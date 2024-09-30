@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Requesting a loan extension
 
 ### A borrower can request a loan extension at any time during the loan or even after default. This extension will prolong the initial loan terms for a specified period.

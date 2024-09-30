@@ -2,7 +2,7 @@
 description: >-
   Incentives are a key driver in DeFi, and PWN is no exception. Below is a
   summary of how incentives will be accounted for on the platform.
-cover: ../../../.gitbook/assets/Points_Final_3.gif
+cover: ../../.gitbook/assets/Points_Final_3.gif
 coverY: 0
 ---
 
