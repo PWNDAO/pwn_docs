@@ -4,7 +4,7 @@
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
 2. Click on "Lend" on the left-hand side module.
-3. Select "Atomic Proposal"
+3. Select "Simple Proposal"
 4. Pick a collateral and amount (tokens or NFTs).
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt="" width="300"><figcaption></figcaption></figure>

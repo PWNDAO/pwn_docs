@@ -23,7 +23,8 @@
   * [Verification Guide](guides/other/verification-guide.md)
   * [PWN's strategy vault](guides/other/pwns-strategy-vault.md)
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
-  * [Incentives](guides/other/incentives.md)
+  * [Incentives](guides/other/incentives/README.md)
+    * [Reputation Rewards](guides/other/incentives/reputation-rewards.md)
 
 ## 📄 PWN DAO
 
