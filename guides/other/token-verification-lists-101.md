@@ -10,6 +10,20 @@ Let’s explore how the industry attempts to fight scams by implementing token l
 
 Because token lists are standardized, they allow for integration across multiple different platforms (front-ends).&#x20;
 
+<details>
+
+<summary>Check out the token lists used at PWN</summary>
+
+#### [Uniswap](https://tokenlists.org/token-list?url=https://gateway.ipfs.io/ipns/tokens.uniswap.org)
+
+#### [Zapper](https://github.com/Zapper-fi/token-list)
+
+#### [Polygon](https://github.com/maticnetwork/polygon-token-list)
+
+#### Opensea - As of now not opensource
+
+</details>
+
 ### NFT verification
 
 In the case of NFTs, things can get a bit more complicated, as the market is not as mature as that of the ERC-20 standard.
@@ -29,17 +43,3 @@ By default, only verified assets with an appraisal are displayed. However, you c
 #### **Proposal Filters**
 
 When browsing Proposals, you can filter them by **LTV, APR and Duration** at the top of the Proposal Table.  Additionally, you can choose to see only fungible tokens or NFTs
-
-<details>
-
-<summary>Check out the token lists used at PWN</summary>
-
-#### [Uniswap](https://tokenlists.org/token-list?url=https://gateway.ipfs.io/ipns/tokens.uniswap.org)
-
-#### [Zapper](https://github.com/Zapper-fi/token-list)
-
-#### [Polygon](https://github.com/maticnetwork/polygon-token-list)
-
-#### Opensea - As of now not opensource
-
-</details>
