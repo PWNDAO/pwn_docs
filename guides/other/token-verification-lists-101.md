@@ -18,9 +18,17 @@ To the best of our knowledge, there are no standardized NFT lists, NFT marketpla
 
 Any NFT project can apply for a verification badge on OpenSea, LooksRare, and other sites. These marketplaces then verify the projects based on their criteria and give or deny them the verification badge. Using token lists on the PWN platform, PWN checks the most popular and trusted lists and displays a verification badge alongside each asset. This is done to make it easy to see if an asset is verified and which project provided the verification.
 
-### Let’s talk about 💩!
+### Let’s talk about filters!
 
-PWN’s 💩 filter (yes, that’s the name of the feature) is another use case for the token lists that are used on the PWN platform. You can easily switch between showing and hiding 💩 assets so you don’t get overwhelmed by assets that don’t interest you. The filter also checks the requested loan-to-value ratio and hides loan requests that don't make sense. You can turn off the 💩 filter in the right top corner right next to the chain selector.
+On PWN, you can use a variety of filters to view exactly what interests you.
+
+#### **Asset Filters**
+
+By default, only verified assets with an appraisal are displayed. However, you can opt-in to view unverified assets or those without pricing by adjusting the filter settings next to the chain selector.
+
+#### **Proposal Filters**
+
+When browsing Proposals, you can filter them by **LTV, APR and Duration** at the top of the Proposal Table.  Additionally, you can choose to see only fungible tokens or NFTs
 
 <details>
 
