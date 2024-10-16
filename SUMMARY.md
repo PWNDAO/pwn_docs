@@ -20,6 +20,7 @@
   * [PWN Bundler](guides/tools/pwn-bundler.md)
   * [PWN Safe](https://pwn.mirror.xyz/ApKLt74i\_p3zJ8WbCLDqFb61UI92EU\_oBhmduFVJR4g)
 * [Other](guides/other/README.md)
+  * [Notifications on PWN](guides/other/notifications-on-pwn.md)
   * [Verification Guide](guides/other/verification-guide.md)
   * [PWN's strategy vault](guides/other/pwns-strategy-vault.md)
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
