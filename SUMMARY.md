@@ -26,11 +26,10 @@
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
   * [Incentives](guides/other/incentives.md)
     * [Reputation Rewards](guides/other/incentives/reputation-rewards.md)
-* [Strategies](guides/strategies.md)
 
 ## 📄 PWN DAO
 
-* [PWN DAO](pwn-dao/our-approach.md)
+* [Overview](pwn-dao/our-approach.md)
 
 ## ❤️ Community
 
