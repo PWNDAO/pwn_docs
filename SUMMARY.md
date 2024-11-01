@@ -28,10 +28,6 @@
     * [Reputation Rewards](guides/other/incentives/reputation-rewards.md)
 * [Strategies](guides/strategies.md)
 
-## 📄 PWN DAO
-
-* [PWN DAO](pwn-dao/our-approach.md)
-
 ## ❤️ Community
 
 * [PWN App](https://app.pwn.xyz/#/)

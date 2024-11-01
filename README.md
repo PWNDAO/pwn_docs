@@ -31,5 +31,4 @@ The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Arbitru
 
 * [**FAQ**](faq/)**:** Find an answer to all the questions you might ask yourself about PWN.
 * [**Guides**](broken-reference)**:** Your step-by-step tutorials to get the best out of PWN.&#x20;
-* [**PWN DAO**](broken-reference)**:** Learn more about the upcoming PWN DAO governance framework.&#x20;
 * [**Developer documentation**](https://dev-docs.pwn.xyz/)**:**  Discover the inner workings of PWN protocol.&#x20;
