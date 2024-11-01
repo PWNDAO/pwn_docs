@@ -9,11 +9,14 @@ description: VIDEO EMBED
 **Browse pending borrowing proposals:**
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
 2. Click on the "lend" tab the left-hand side module.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-3. The borrowing proposals you can fund will have an active "Lend" button. All the others will be greyed.&#x20;
+3. If your wallet is connected, the borrowing proposals you can fund will have an active "Lend" button. All the others will be greyed.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 

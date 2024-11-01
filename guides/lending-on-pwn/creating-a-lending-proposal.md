@@ -1,6 +1,6 @@
 # Creating a lending offer
 
-### You don't have to wait for a borrowing proposal to be posted; you can proactively post loan offers on the collateral of your choice, and as always with PWN, on your very own terms.
+### You don't have to wait for a borrowing offer to be posted; you can proactively post loan offers on the collateral of your choice, and as always with PWN, on your very own terms.
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
 2. Click on "Lend" on the left-hand side module.
