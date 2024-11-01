@@ -10,5 +10,3 @@ Alternatively you can go to the loan page and click on "Claim"
 
 **⚠️ If the defaulted collateral is a bundle of assets, you'll need to unpack it after claiming using the** [**unpacker**](https://app.pwn.xyz/#/token-bundler/unpack-bundle/choose-bundle)**.**  &#x20;
 
-**⚠️ If the position was incentivized, all rewards accrued by the borrowers will be transfered to the lender.**  &#x20;
-

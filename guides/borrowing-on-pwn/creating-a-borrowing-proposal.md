@@ -1,6 +1,6 @@
-# Creating a borrowing offer
+# Creating a borrowing proposal
 
-Since PWN is peer-to-peer, borrowers need to create a borrowing offer on the platform. This includes specifying the collateral they wish to use—whether tokens, NFTs, or a combination of both—the asset they want to borrow (credit asset), and their preferred loan terms.
+### Since PWN is peer-to-peer, every borrower must create a borrowing proposal on the platform, detailing the collateral they want to use (tokens, NFTs, or a bundle of both), the asset to borrow, and the loan terms they are comfortable with.
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
 

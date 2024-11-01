@@ -6,14 +6,13 @@
 ## 💁 Guides
 
 * [Borrowing on PWN](guides/borrowers/README.md)
-  * [Creating a borrowing offer](guides/borrowing-on-pwn/creating-a-borrowing-proposal.md)
+  * [Creating a borrowing proposal](guides/borrowing-on-pwn/creating-a-borrowing-proposal.md)
   * [Borrowing from a specific asset/collection](guides/borrowing-on-pwn/borrowing-from-a-specific-asset-collection.md)
   * [Repaying loans](guides/borrowing-on-pwn/repaying-loans.md)
   * [Requesting a loan extension](guides/borrowing-on-pwn/requesting-a-loan-extension.md)
-  * [Accepting loans](guides/borrowing-on-pwn/accepting-loans.md)
 * [Lending on PWN](guides/lenders/README.md)
   * [Funding loans](guides/lending-on-pwn/funding-loans.md)
-  * [Creating a lending offer](guides/lending-on-pwn/creating-a-lending-proposal.md)
+  * [Creating a lending proposal](guides/lending-on-pwn/creating-a-lending-proposal.md)
   * [Advanced Lending Features](guides/lending-on-pwn/advanced-lending-features.md)
   * [Claiming defaulted collateral](guides/lending-on-pwn/claiming-defaulted-collateral.md)
   * [Offering a loan extension](guides/lending-on-pwn/offering-a-loan-extension.md)
@@ -27,10 +26,11 @@
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
   * [Incentives](guides/other/incentives.md)
     * [Reputation Rewards](guides/other/incentives/reputation-rewards.md)
+* [Strategies](guides/strategies.md)
 
 ## 📄 PWN DAO
 
-* [Overview](pwn-dao/our-approach.md)
+* [PWN DAO](pwn-dao/our-approach.md)
 
 ## ❤️ Community
 

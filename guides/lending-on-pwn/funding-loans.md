@@ -6,17 +6,16 @@ description: VIDEO EMBED
 
 ### Funding a loan on PWN is easy, predictable, and safe. As a lender, you're free to accept a borrower's terms or counter with your own. &#x20;
 
+There are several way to find loans to fund on PWN:&#x20;
+
 **Browse pending borrowing proposals:**
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
-
 2. Click on the "lend" tab the left-hand side module.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-3. If your wallet is connected, the borrowing proposals you can fund will have an active "Lend" button. All the others will be greyed.
+3. The borrowing proposals you can fund will have an active "Lend" button. All the others will be greyed.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
