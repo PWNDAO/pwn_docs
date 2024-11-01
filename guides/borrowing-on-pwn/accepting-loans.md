@@ -1,5 +1,6 @@
 ---
 description: VIDEO EMBED
+hidden: true
 ---
 
 # Accepting loans

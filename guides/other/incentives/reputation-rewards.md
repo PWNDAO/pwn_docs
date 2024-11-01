@@ -4,12 +4,13 @@ description: Learn how much rep you can earn by doing different actions on PWN!
 
 # Reputation Rewards
 
-It's sometimes hard to know who you're dealing with when you're interacting on chain. And reputation becomes a determining factor when it comes to lending. There's a reason why credit scores exist: they inform the creditor about the probability of an actor repaying their debt.\
+When interacting on-chain, identifying who you’re truly dealing with can be a challenge. And in lending in particular, reputation is a critical factor—credit scores exist for a reason, offering insight into a borrower's likelihood of repayment.
+
+To harness the power of reputation through real actions, PWN has introduced reputation rewards.
+
+Each interaction with the protocol earns you Rep. The more Rep you accumulate, the more trust you build with other PWN users.\
 \
-This is with this goal of leveraging reputation markers linked to concrete action that PWN has released its reputation rewards.\
-\
-Each interaction with the protocol will earn you a certain number of Rep. The more rep you own, the more trustworthy you become for fellow PWN users.\
-\
+Here's a list of actions and their associated Rep rewards. \
 
 
 ## Borrow and Lend
