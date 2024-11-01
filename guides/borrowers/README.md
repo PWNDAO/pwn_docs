@@ -8,8 +8,8 @@
 
 {% embed url="https://youtu.be/WdTsaSqT9cw?feature=shared" %}
 
-{% content-ref url="../borrowing-on-pwn/creating-a-borrowing-proposal.md" %}
-[creating-a-borrowing-proposal.md](../borrowing-on-pwn/creating-a-borrowing-proposal.md)
+{% content-ref url="../borrowing-on-pwn/creating-a-borrowing-offer.md" %}
+[creating-a-borrowing-offer.md](../borrowing-on-pwn/creating-a-borrowing-offer.md)
 {% endcontent-ref %}
 
 {% content-ref url="../borrowing-on-pwn/borrowing-from-a-specific-asset-collection.md" %}

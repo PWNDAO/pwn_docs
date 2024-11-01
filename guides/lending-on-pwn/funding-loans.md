@@ -6,8 +6,6 @@ description: VIDEO EMBED
 
 ### Funding a loan on PWN is easy, predictable, and safe. As a lender, you're free to accept a borrower's terms or counter with your own. &#x20;
 
-There are several way to find loans to fund on PWN:&#x20;
-
 **Browse pending borrowing proposals:**
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;

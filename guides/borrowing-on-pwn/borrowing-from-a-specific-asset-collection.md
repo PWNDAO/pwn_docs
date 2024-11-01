@@ -4,7 +4,7 @@
 
 
 
-* [Start a borrowing proposal](creating-a-borrowing-proposal.md) by selecting your collateral and borrowed asset. The app will automatically push relevant lending proposals in the "I want to borrow" tab.
+* [Start a borrowing proposal](creating-a-borrowing-offer.md) by selecting your collateral and borrowed asset. The app will automatically push relevant lending proposals in the "I want to borrow" tab.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="314"><figcaption></figcaption></figure>
 

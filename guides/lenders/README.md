@@ -10,8 +10,8 @@
 [funding-loans.md](../lending-on-pwn/funding-loans.md)
 {% endcontent-ref %}
 
-{% content-ref url="../lending-on-pwn/creating-a-lending-proposal.md" %}
-[creating-a-lending-proposal.md](../lending-on-pwn/creating-a-lending-proposal.md)
+{% content-ref url="../lending-on-pwn/creating-a-lending-offer.md" %}
+[creating-a-lending-offer.md](../lending-on-pwn/creating-a-lending-offer.md)
 {% endcontent-ref %}
 
 {% content-ref url="../lending-on-pwn/advanced-lending-features.md" %}
