@@ -81,7 +81,3 @@ Treasury funds are managed and allocated through governance decisions, including
 ## 5. DAO Infrastructure
 
 PWNDAO utilizes the [**Aragon OSx**](https://aragon.org/aragonosx) framework to implement decentralized governance. PWNDAO is initially deployed on Ethereum, with plans for multi-chain governance supported by a bridge timelock mechanism to ensure secure cross-chain voting and execution.
-
-## 6. Audit
-
-PWNDAO has been audited by Halborn. The audit report is accessible [here](https://file.notion.so/f/f/95e5a5a7-2ed2-483c-b1c7-3aa069c26aaf/e5cb482f-dca4-4d92-b559-aabf7fbfc9c6/Halborn-pwndao-audit.pdf?table=block\&id=76a57b55-7943-4024-926b-557bb35809e9\&spaceId=95e5a5a7-2ed2-483c-b1c7-3aa069c26aaf\&expirationTimestamp=1729900800000\&signature=tUuXtm-1Is2Pr3XFHT9nZ8Gmi3xe6gvXd4pMrQaWWt4\&downloadName=Halborn-pwndao-audit.pdf).
