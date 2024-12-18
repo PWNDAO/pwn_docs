@@ -29,6 +29,8 @@ For comprehensive details about staking and voting power mechanics, please visit
 
 The PWN Staking UI provides a comprehensive overview of your staking positions, vesting positions, and unstaked PWN tokens.
 
+Vesting positions are special case, you can read more about them [here](#vesting-positions-detail).
+
 ### Top Bar Overview
 
 ![](./../.gitbook/assets/staking-ui-top-bar-overview.png)
@@ -59,20 +61,6 @@ The positions table offers insights into your token positions:
 - Claim unlocked PWN tokens
 - Upgrade vesting positions to standard staking positions
 
-### Understanding Vesting Positions
-
-Vesting positions are designed for early investors with token locks shorter than one year. These positions differ from standard staking in key ways:
-
-- **No Voting Power**: Vested tokens do not generate voting influence
-- **No Fee Shares**: Vested tokens do not earn potential fee distributions
-
-You can choose to upgrade your vesting position to a standard staking position to get the benefits of a staking position.
-
-#### How to upgrade vesting position to staking position:
-- Click the "Upgrade to stake" button in the positions table
-- Both minimal and default lockup duration is 1 year, starting from the next epoch
-- For custom lockup durations, contact the team on [Discord](https://discord.pwn.xyz)
-
 ---
 
 ## Upcoming Staking UI Features
@@ -85,3 +73,19 @@ New features will be added to the Staking UI soon. These features include:
 - Claiming unlocked staking positions
 
 Need to modify your staking positions sooner? Reach out on [Discord](https://discord.pwn.xyz).
+
+---
+
+## Understanding Vesting Positions {#vesting-positions-detail}
+
+Vesting positions are designed for early investors with token locks shorter than one year. These positions differ from standard staking in key ways:
+
+- **No Voting Power**: Vested tokens do not generate voting influence
+- **No Fee Shares**: Vested tokens do not earn potential fee distributions
+
+You can choose to upgrade your vesting position to a standard staking position to get the benefits of a staking position.
+
+### How to upgrade vesting position to staking position:
+- Click the "Upgrade to stake" button in the positions table
+- Both minimal and default lockup duration is 1 year, starting from the next epoch
+- For custom lockup durations, contact the team on [Discord](https://discord.pwn.xyz)
