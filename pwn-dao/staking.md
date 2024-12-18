@@ -31,7 +31,7 @@ The PWN Staking UI provides a comprehensive overview of your staking positions, 
 
 ### Top Bar Overview
 
-![Top Bar Overview](./../.gitbook/assets/staking-ui-top-bar-overview.png)
+![](./../.gitbook/assets/staking-ui-top-bar-overview.png)
 
 Key metrics in the top bar include:
 
@@ -45,13 +45,13 @@ Key metrics in the top bar include:
 
 ### Cumulative Voting Power Graph
 
-![Cumulative Voting Power Graph](./../.gitbook/assets/staking-ui-voting-power-graph.png)
+![](./../.gitbook/assets/staking-ui-voting-power-graph.png)
 
 This graph displays your cumulative voting power over time, from the current epoch to the last epoch where you maintain voting power. Changes in voting power are highlighted on the x-axis.
 
 ### Staking and Vesting Positions Table
 
-![Staking And Voting Positions Table](./../.gitbook/assets/staking-ui-positions-table.png)
+![](./../.gitbook/assets/staking-ui-positions-table.png)
 
 The positions table offers insights into your token positions:
 
