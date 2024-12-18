@@ -31,9 +31,9 @@
 ## 📝 PWN DAO
 
 * [PWN DAO](pwn-dao/pwn-dao.md)
+* [Staking](pwn-dao/staking.md)
+* [Governance](https://gov.pwn.xyz)
 * [Forum](https://forum.pwn.xyz)
-* [Governance](https://governance.pwn.xyz)
-* [Staking](https://staking.pwn.xyz)
 
 ## ❤️ Community
 
