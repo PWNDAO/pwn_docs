@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-PWN DAO is designed to manage and enhance the PWN Protocol, providing decentralized governance over advanced DeFi lending instruments such as non-custodial collateralized loans and contracts. This section outlines PWNDAO's governance model, tokenomics, and key features.
+PWN DAO is designed to manage and enhance the PWN Protocol, providing decentralized governance over advanced DeFi lending instruments such as non-custodial collateralized loans and contracts. This section outlines PWN DAO's governance model, tokenomics, and key features.
 
 ## 2. PWN Protocol Overview
 
@@ -21,7 +21,7 @@ Additional features include multi-commitment proposals (strategies), elastic pro
 
 ### **3.1 Governance Structure**
 
-PWNDAO operates under a **dual governance model**, balancing decentralized decision-making with fast execution for urgent proposals. The system is divided into two key governance mechanisms:
+PWN DAO operates under a **dual governance model**, balancing decentralized decision-making with fast execution for urgent proposals. The system is divided into two key governance mechanisms:
 
 * **Community Governance:** All token holders who stake $PWN tokens can participate in governance. Proposals made under this system require a quorum of 20% of staked tokens and must achieve a 60% approval rate to pass.
 * **Steward Governance:** Stewards, appointed by the community, have the authority to make decisions using a multi-signature mechanism. Steward proposals are automatically implemented unless vetoed by at least 10% of the total voting power.
@@ -46,7 +46,7 @@ This dual system ensures that the DAO remains efficient, while providing securit
 
 ### **3.4 Voter Incentives**
 
-To encourage participation and reduce voter apathy, PWNDAO offers a voter incentive system. Voters who support successful proposals can earn rewards in newly minted $PWN tokens, proportional to the voting power they used. On the other hand, non-participation in governance may lead to inflationary penalties or reduced voting rewards over time.
+To encourage participation and reduce voter apathy, PWN DAO offers a voter incentive system. Voters who support successful proposals can earn rewards in newly minted $PWN tokens, proportional to the voting power they used. On the other hand, non-participation in governance may lead to inflationary penalties or reduced voting rewards over time.
 
 ### **3.5 Staking and Voting Power**
 
@@ -74,10 +74,10 @@ Voting power is recalculated at the start of each **4-week epoch**, and all stak
 
 ### **4.2 Treasury and Fee Management**
 
-PWNDAO’s treasury is funded by protocol fees collected from loans. Initially, loan fees are set to 0%, but the DAO can adjust these fees over time based on market conditions.
+PWN DAO’s treasury is funded by protocol fees collected from loans. Initially, loan fees are set to 0%, but the DAO can adjust these fees over time based on market conditions.
 
 Treasury funds are managed and allocated through governance decisions, including protocol upgrades, ecosystem development, or community rewards.
 
 ## 5. DAO Infrastructure
 
-PWNDAO utilizes the [**Aragon OSx**](https://aragon.org/aragonosx) framework to implement decentralized governance. PWNDAO is initially deployed on Ethereum, with plans for multi-chain governance supported by a bridge timelock mechanism to ensure secure cross-chain voting and execution.
+PWN DAO utilizes the [**Aragon OSx**](https://aragon.org/aragonosx) framework to implement decentralized governance. PWN DAO is initially deployed on Ethereum, with plans for multi-chain governance supported by a bridge timelock mechanism to ensure secure cross-chain voting and execution.
