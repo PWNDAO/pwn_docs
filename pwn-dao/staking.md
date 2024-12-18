@@ -1,4 +1,4 @@
-## PWN Staking UI Overview
+### Overview
 
 To participate in PWN DAO governance, you must stake your PWN tokens. The staking mechanism is designed to encourage DAO members to make long-term commitments. You can manage your staking positions at [stake.pwn.xyz](https://stake.pwn.xyz).
 
@@ -22,6 +22,8 @@ PWN DAO operates on an epoch-based system:
 ### Additional Resources
 
 For comprehensive details about staking and voting power mechanics, please visit the [Staking and Voting Power documentation](pwn-dao.md#staking-and-voting-power).
+
+---
 
 ## PWN Staking UI Guide
 
@@ -70,6 +72,8 @@ You can choose to upgrade your vesting position to a standard staking position t
 - Click the "Upgrade to stake" button in the positions table
 - Both minimal and default lockup duration is 1 year, starting from the next epoch
 - For custom lockup durations, contact the team on [Discord](https://discord.pwn.xyz)
+
+---
 
 ## Upcoming Staking UI Features
 
