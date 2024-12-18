@@ -6,10 +6,10 @@
 
 * [Start a borrowing proposal](creating-a-borrowing-proposal.md) by selecting your collateral and borrowed asset. The app will automatically push relevant lending proposals in the "I want to borrow" tab.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="314"><figcaption></figcaption></figure>
 
 * Use the Explorer section to look up assets. This method is a bit less effective as you won't benefit from the app's automatic proposal matching.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 If a lending proposal matches your preferences, simply click on the "Borrow" button.

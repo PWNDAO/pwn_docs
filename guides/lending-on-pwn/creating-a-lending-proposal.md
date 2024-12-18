@@ -7,17 +7,17 @@
 3. Select "Simple Proposal"
 4. Pick a collateral and amount (tokens or NFTs).
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="300"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Pick your lent asset and amount
 
 _<mark style="color:green;">New Feature:  After you select their collateral and/or lent asset, the app will</mark> <mark style="color:green;"></mark><mark style="color:green;">**automatically push all matching borrowing proposals**</mark> <mark style="color:green;"></mark><mark style="color:green;">in the "I want to lend" module on the left. If one fits your terms, just click on the "Lend" button.</mark>_
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="285"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="375"><figcaption></figcaption></figure>
 
 5. Pick your desired loan terms:
 
@@ -26,11 +26,11 @@ _<mark style="color:green;">New Feature:  After you select their collateral and/
 * _Loan duration_
 * _Proposal validity period_
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="228"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="228"><figcaption></figcaption></figure>
 
 6. Submit your lending proposal by clicking on "Post Proposal"
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Once your lending proposal is submitted, it will appear in the "I want to borrow" section of the app, where any borrower will be free to accept it or counter-propose.
 
@@ -38,7 +38,7 @@ Once your lending proposal is submitted, it will appear in the "I want to borrow
 
 You'll be notified in the app once when one of your proposal  is accepted or if you receive a counteroffer.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **⚠️ You can cancel or edit your lending proposal at any time. Simply head to the "Your Lending" section in your dashboard, find the offer you'd like to edit and cancel and click the corresponding button.**\
 \

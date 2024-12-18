@@ -1,16 +1,16 @@
 # Table of contents
 
 * [PWN Explained](README.md)
-* [FAQ](faq/README.md)
+* [FAQ](faq.md)
 
 ## 💁 Guides
 
-* [Borrowing on PWN](guides/borrowers/README.md)
+* [Borrowing on PWN](guides/borrowing-on-pwn/README.md)
   * [Creating a borrowing proposal](guides/borrowing-on-pwn/creating-a-borrowing-proposal.md)
   * [Borrowing from a specific asset/collection](guides/borrowing-on-pwn/borrowing-from-a-specific-asset-collection.md)
   * [Repaying loans](guides/borrowing-on-pwn/repaying-loans.md)
   * [Requesting a loan extension](guides/borrowing-on-pwn/requesting-a-loan-extension.md)
-* [Lending on PWN](guides/lenders/README.md)
+* [Lending on PWN](guides/lending-on-pwn/README.md)
   * [Funding loans](guides/lending-on-pwn/funding-loans.md)
   * [Creating a lending proposal](guides/lending-on-pwn/creating-a-lending-proposal.md)
   * [Advanced Lending Features](guides/lending-on-pwn/advanced-lending-features.md)
@@ -24,7 +24,7 @@
   * [Verification Guide](guides/other/verification-guide.md)
   * [PWN's strategy vault](guides/other/pwns-strategy-vault.md)
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
-  * [Incentives](guides/other/incentives.md)
+  * [Incentives](guides/other/incentives/README.md)
     * [Reputation Rewards](guides/other/incentives/reputation-rewards.md)
 * [Strategies](guides/strategies.md)
 

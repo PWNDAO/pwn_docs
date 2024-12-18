@@ -4,25 +4,25 @@
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on "Borrow" on the left-hand side module.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Pick your collateral and amount (you can use tokens and NFTs, and even [bundle](../tools/pwn-bundler.md) both).
 
 
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="299"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="299"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Pick the borrowed asset and amount
 
 _<mark style="color:green;">New Feature:  After you select your collateral and/or borrowed asset, the app will</mark> <mark style="color:green;"></mark><mark style="color:green;">**automatically push all matching lending proposals**</mark> <mark style="color:green;"></mark><mark style="color:green;">in the "I want to borrow" module on the left. If one fits your terms, just click on the "Borrow" button.</mark>_
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Pick your desired loan terms:
 
@@ -31,11 +31,11 @@ _<mark style="color:green;">New Feature:  After you select your collateral and/o
 * _Loan duration_
 * _Proposal validity period_
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="228"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="228"><figcaption></figcaption></figure>
 
 6. Submit your borrowing proposal by clicking on "Post Proposal"
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -45,7 +45,7 @@ Once your borrowing proposal is submitted, it will appear in the "I want to lend
 
 You'll be notified in the app once when one of your proposals gets funded.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Once you get funded, you'll be prompted to [set a reminder](https://app.pwn.xyz/#/notification-center). **All you have to do next is to make sure you repay on time to avoid defaulting.**
 

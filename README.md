@@ -23,12 +23,12 @@ PWN is:
 
 The PWN Protocol is currently deployed on **Ethereum, Polygon, Optimism, Arbitrum, Base, Binance Smart Chain, and Cronos.**
 
-<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ### Getting started with PWN.
 
 **How are the PWN docs organized?**
 
-* [**FAQ**](faq/)**:** Find an answer to all the questions you might ask yourself about PWN.
+* [**FAQ**](faq.md)**:** Find an answer to all the questions you might ask yourself about PWN.
 * [**Guides**](broken-reference)**:** Your step-by-step tutorials to get the best out of PWN.&#x20;
 * [**Developer documentation**](https://dev-docs.pwn.xyz/)**:**  Discover the inner workings of PWN protocol.&#x20;

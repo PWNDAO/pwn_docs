@@ -11,7 +11,7 @@ We support different channels for receiving your notifications:
 {% hint style="info" %}
 You'll always find all things notifications in your Notification Center.
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (54).png>)
 {% endhint %}
 
 ### PUSH
@@ -34,22 +34,18 @@ You'll find your Notification Settings in your Notification Center.&#x20;
 
 #### New Proposals
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure></div>
 
 This option allows you to get notifications for all new proposals on the Platform. You can also customize parameters such as LTV, Duration or Verification.&#x20;
 
 #### Loan Default Warning
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 By default, you'll receive notifications one and seven days before your loan is due, reminding you to repay. You can customize the number of days in advance to receive these notifications.
 
 #### Follow an Address
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 You'll receive notifications about the activity of an other address. This is useful if you have more wallets you use on PWN but want to receive notifications on one address.

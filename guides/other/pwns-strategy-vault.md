@@ -10,5 +10,5 @@ description: This page shares several ways you can use PWN to supercharge your D
 
 ## [**Beefy**](https://beefy.com/) **x** [**Aerodrome**](https://aerodrome.finance/)
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 

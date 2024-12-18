@@ -10,6 +10,6 @@ To repay your loan:
 
 Alternatively, you can also repay from the loan page:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **⚠️ You are free to repay at any time before the final repayment deadline, and you'll only pay the pro-rata interest due.**
