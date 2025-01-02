@@ -48,7 +48,7 @@ This dual system ensures that the DAO remains efficient, while providing securit
 
 To encourage participation and reduce voter apathy, PWN DAO offers a voter incentive system. Voters who support successful proposals can earn rewards in newly minted $PWN tokens, proportional to the voting power they used. On the other hand, non-participation in governance may lead to inflationary penalties or reduced voting rewards over time.
 
-### **3.5 Staking and Voting Power**
+### **3.5 Staking and Voting Power** {#staking-and-voting-power}
 
 $PWN token holders must stake their tokens to gain governance power. The voting power granted is determined by the amount and remaining lock up of the stake:
 
