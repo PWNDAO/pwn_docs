@@ -34,6 +34,7 @@
 * [Staking](pwn-dao/staking.md)
 * [Governance](https://gov.pwn.xyz)
 * [Forum](https://forum.pwn.xyz)
+* [Snapshot](https://snapshot.box/#/s:pwn.xyz)
 
 ## ❤️ Community
 
