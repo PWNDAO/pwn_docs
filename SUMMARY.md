@@ -5,6 +5,7 @@
 
 ## 💁 Guides
 
+* [Strategies](guides/strategies.md)
 * [Borrowing on PWN](guides/borrowing-on-pwn/README.md)
   * [Creating a borrowing proposal](guides/borrowing-on-pwn/creating-a-borrowing-proposal.md)
   * [Borrowing from a specific asset/collection](guides/borrowing-on-pwn/borrowing-from-a-specific-asset-collection.md)
@@ -19,14 +20,13 @@
 * [Tools](guides/tools/README.md)
   * [PWN Bundler](guides/tools/pwn-bundler.md)
   * [PWN Safe](https://pwn.mirror.xyz/ApKLt74i_p3zJ8WbCLDqFb61UI92EU_oBhmduFVJR4g)
+* [Incentives](guides/incentives/README.md)
+  * [Reputation Rewards](guides/incentives/reputation-rewards.md)
 * [Other](guides/other/README.md)
   * [Notifications on PWN](guides/other/notifications-on-pwn.md)
   * [Verification Guide](guides/other/verification-guide.md)
   * [PWN's strategy vault](guides/other/pwns-strategy-vault.md)
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
-  * [Incentives](guides/other/incentives/README.md)
-    * [Reputation Rewards](guides/other/incentives/reputation-rewards.md)
-* [Strategies](guides/strategies.md)
 
 ## 📝 PWN DAO
 
