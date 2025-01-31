@@ -20,8 +20,6 @@
 * [Tools](guides/tools/README.md)
   * [PWN Bundler](guides/tools/pwn-bundler.md)
   * [PWN Safe](https://pwn.mirror.xyz/ApKLt74i_p3zJ8WbCLDqFb61UI92EU_oBhmduFVJR4g)
-* [Incentives](guides/incentives/README.md)
-  * [Reputation Rewards](guides/incentives/reputation-rewards.md)
 * [Other](guides/other/README.md)
   * [Notifications on PWN](guides/other/notifications-on-pwn.md)
   * [Verification Guide](guides/other/verification-guide.md)
@@ -38,6 +36,10 @@
 
 ## ❤️ Community
 
+* [Community Program and Incentives](community/community-program-and-incentives/README.md)
+  * [Protocol Incentives](community/community-program-and-incentives/incentives.md)
+  * [Social incentives](community/community-program-and-incentives/social-incentives/README.md)
+    * [Content types](community/community-program-and-incentives/social-incentives/content-types.md)
 * [PWN App](https://app.pwn.xyz/#/)
 * [Discord](https://discord.gg/aWghBQSdHv)
 * [Mirror](https://pwn.mirror.xyz/)

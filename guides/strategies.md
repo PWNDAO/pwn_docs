@@ -15,7 +15,7 @@ P2P lending, while flexible for unique and complex assets, can be difficult to s
 
 Strategy-Based Lending addresses these issues by simplifying the creation of lending offers while maintaining the advantages of P2P flexibility and composability.\
 \
-[Read more.](https://pwn.mirror.xyz/PT8V0Ctux\_HmjyrcG3-Xwiy6JvBIp-j-pY3hq27wjUw)
+[Read more.](https://pwn.mirror.xyz/PT8V0Ctux_HmjyrcG3-Xwiy6JvBIp-j-pY3hq27wjUw)
 
 ### 2. The Strategy-Based Lending Model
 
@@ -51,7 +51,7 @@ _At the moment, strategy creation is permissioned, meaning only approved curator
 
 #### Click on Strategies in the header:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hover over a strategy you're interested in and click to show more information, or click **"Commit"**:
 
