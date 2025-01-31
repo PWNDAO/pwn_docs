@@ -16,7 +16,7 @@ description: Learn how much rep you can earn by doing different actions on PWN.
 | Accept a Lending Proposal                 | +5% Boost                              |
 | Accept a Borrowing Proposal               | +5% Boost                              |
 
-## Core Achievements
+### Core Achievement
 
 | **Action**                         | **Reward** |
 | ---------------------------------- | ---------- |
