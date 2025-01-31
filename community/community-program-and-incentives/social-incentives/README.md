@@ -26,7 +26,7 @@ Below you can see different kinds of content that you can create.
 | Twitter articles |
 | Bounty posts     |
 
-For more information on different types of content, check the [content types](https://app.gitbook.com/o/qU5BYc7llstaew78WOHt/s/tZYbaMzoeA7Kw4Stxzvw/~/changes/194/community/community-program-and-incentives/social-incentives/content-types).
+For more information on different types of content, check the [content types](https://docs.pwn.xyz/community/community-program-and-incentives/social-incentives/content-types).
 
 
 
