@@ -29,13 +29,6 @@ The **Incentives Program** is designed to **build community** and spread the wor
 1️⃣ **Protocol Incentives** – Earn reps by interacting with the platform.\
 2️⃣ **Social Incentives** – Earn reps by creating content and engaging with the community.
 
-Additionally, these docs include explanations on:
-
-\
-**Achievement Dashboard** – Track your progress.\
-**Rewards System** – Earn reputation points.\
-**Levels System**
-
 ## Incentives Program
 
 | Protocol Incentives                                                                    | Social Incentives                                                             |
