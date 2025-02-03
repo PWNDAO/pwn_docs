@@ -28,8 +28,8 @@ If Mark fails to repay the loan, James will keep his earned rewards and get to c
 
 For more information about specific rewards, see:
 
-{% content-ref url="rewards.md" %}
-[rewards.md](rewards.md)
+{% content-ref url="reputation-rewards.md" %}
+[reputation-rewards.md](reputation-rewards.md)
 {% endcontent-ref %}
 
 ***

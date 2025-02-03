@@ -42,7 +42,7 @@
     * [Content types](community/community-program-and-incentives/social-incentives/content-types.md)
   * [Achievements Dashboard](community/community-program-and-incentives/achievements-dashboard.md)
   * [Levels System](community/community-program-and-incentives/levels-system.md)
-  * [Rewards](community/community-program-and-incentives/rewards.md)
+  * [Reputation Rewards](community/community-program-and-incentives/reputation-rewards.md)
 * [PWN App](https://app.pwn.xyz/#/)
 * [Discord](https://discord.gg/aWghBQSdHv)
 * [Mirror](https://pwn.mirror.xyz/)

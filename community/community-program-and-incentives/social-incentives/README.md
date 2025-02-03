@@ -28,7 +28,7 @@ Below you can see different kinds of content that you can create.
 
 For more information on different types of content, see:
 
-{% content-ref url="../rewards.md" %}
-[rewards.md](../rewards.md)
+{% content-ref url="../reputation-rewards.md" %}
+[reputation-rewards.md](../reputation-rewards.md)
 {% endcontent-ref %}
 
