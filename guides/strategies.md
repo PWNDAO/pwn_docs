@@ -51,11 +51,11 @@ _At the moment, strategy creation is permissioned, meaning only approved curator
 
 #### Click on Strategies in the header:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hover over a strategy you're interested in and click to show more information, or click **"Commit"**:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Each strategy page will display a comprehensive view of lending terms, along with a complete list of eligible collateral and credit assets. Once you've found the right strategy, simply click **"Commit"**.
 

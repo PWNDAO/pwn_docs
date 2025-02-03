@@ -38,7 +38,7 @@ Similar to educational content, threads and articles are longer-form pieces that
 
 **Example:** A main account thread introducing the **PWN DAO**.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Link to the thread: \
 [https://x.com/pwndao/status/1869812495856349399](https://x.com/pwndao/status/1869812495856349399)

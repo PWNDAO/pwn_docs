@@ -40,6 +40,8 @@
   * [Protocol Incentives](community/community-program-and-incentives/incentives.md)
   * [Social incentives](community/community-program-and-incentives/social-incentives/README.md)
     * [Content types](community/community-program-and-incentives/social-incentives/content-types.md)
+  * [Achievements Dashboard](community/community-program-and-incentives/achievements-dashboard.md)
+  * [Levels System](community/community-program-and-incentives/levels-system.md)
   * [Rewards](community/community-program-and-incentives/rewards.md)
 * [PWN App](https://app.pwn.xyz/#/)
 * [Discord](https://discord.gg/aWghBQSdHv)

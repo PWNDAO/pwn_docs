@@ -26,6 +26,12 @@ Similar to other lending platforms, both lenders and borrowers will receive rewa
 
 If Mark fails to repay the loan, James will keep his earned rewards and get to claim the $ABC collateral.
 
+For more information about specific rewards, see:
+
+{% content-ref url="rewards.md" %}
+[rewards.md](rewards.md)
+{% endcontent-ref %}
+
 ***
 
 _Additionally, third-party incentives (points or tokens) will be distributed by selected projects integrated with PWN. Please note that PWN does not control or hold custody over these rewards, and they will be claimable according to the partner project's claiming processes._

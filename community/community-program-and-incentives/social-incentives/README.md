@@ -26,9 +26,9 @@ Below you can see different kinds of content that you can create.
 | Twitter articles |
 | Bounty posts     |
 
-For more information on different types of content, check the [content types](https://docs.pwn.xyz/community/community-program-and-incentives/social-incentives/content-types).
+For more information on different types of content, see:
 
-
-
-
+{% content-ref url="../rewards.md" %}
+[rewards.md](../rewards.md)
+{% endcontent-ref %}
 
