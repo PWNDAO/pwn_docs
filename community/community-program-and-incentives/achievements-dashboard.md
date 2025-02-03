@@ -8,9 +8,9 @@ description: >-
 
 You can access your achievement dashboard by tapping the ⭐️ star icon in the top right corner of our app. Below the dashboard screenshot, you’ll find descriptions explaining each section of the achievement dashboard.
 
-<figure><img src="../../.gitbook/assets/screencapture-achievement-centre-pwn-frontend-pages-dev-achievements-2025-02-03-14_47_50 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Achievements Dashboard</p></figcaption></figure>
 
-Your reputation score reflects the total reputation points (reps) you have accumulated on the connected wallet. Besides completing achievements by using our protocol, you can also earn reps by creating social content on X.
+Your reputation score reflects the total reputation points (reps) you have accumulated on the connected wallet. Besides completing achievement![](broken-reference)s by using our protocol, you can also earn reps by creating social content on X.
 
 The formula for earning reps through the protocol is: **1 Rep = $100 of volume**.
 
