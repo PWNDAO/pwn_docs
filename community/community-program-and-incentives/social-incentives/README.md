@@ -26,9 +26,13 @@ Below you can see different kinds of content that you can create.
 | Twitter articles |
 | Bounty posts     |
 
-For more information on different types of content, see:
+For more information on different types of content and how they are rewarded, see pages social rewards and content types ⬇️
 
-{% content-ref url="../reputation-rewards.md" %}
-[reputation-rewards.md](../reputation-rewards.md)
+{% content-ref url="social-rewards.md" %}
+[social-rewards.md](social-rewards.md)
+{% endcontent-ref %}
+
+{% content-ref url="content-types.md" %}
+[content-types.md](content-types.md)
 {% endcontent-ref %}
 

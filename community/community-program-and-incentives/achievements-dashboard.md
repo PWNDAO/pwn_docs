@@ -20,8 +20,8 @@ The formula for earning reps through the protocol is: **1 Rep = $100 of volume**
 
 You earn rep by lending, with **1 rep** awarded for **every $100** worth of tokens lent at the time the loan is created.
 
-{% content-ref url="reputation-rewards.md" %}
-[reputation-rewards.md](reputation-rewards.md)
+{% content-ref url="incentives/reputation-points.md" %}
+[reputation-points.md](incentives/reputation-points.md)
 {% endcontent-ref %}
 
 ***
@@ -30,8 +30,8 @@ You earn rep by lending, with **1 rep** awarded for **every $100** worth of toke
 
 As a borrower, you gain rep by repaying your loans. For **every $100** worth of tokens repaid, you earn **1 rep**.
 
-{% content-ref url="reputation-rewards.md" %}
-[reputation-rewards.md](reputation-rewards.md)
+{% content-ref url="incentives/reputation-points.md" %}
+[reputation-points.md](incentives/reputation-points.md)
 {% endcontent-ref %}
 
 ***
