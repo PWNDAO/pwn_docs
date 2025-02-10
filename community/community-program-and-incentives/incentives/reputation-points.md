@@ -72,9 +72,3 @@ James agrees to lend 5,000 USDC to Mark and accepts his proposal.
 ## PWN Bundler
 
 <table><thead><tr><th width="442">Action</th><th>Rewards</th></tr></thead><tbody><tr><td>Create a PWN Bundle</td><td>15 rep</td></tr><tr><td>Unwrap a PWN Bundle</td><td>10 rep</td></tr><tr><td>Use PWN Bundle as a collateral</td><td>10 rep</td></tr></tbody></table>
-
-***
-
-## PWN Safe
-
-<table><thead><tr><th width="442">Action</th><th>Rewards</th></tr></thead><tbody><tr><td>Deploy PWN Safe</td><td>10 rep</td></tr><tr><td>Mint an ATR Token</td><td>15 rep</td></tr><tr><td>Burn an ATR Token</td><td>10 rep</td></tr><tr><td>Use ATR Token as a collateral</td><td>10 rep</td></tr></tbody></table>
