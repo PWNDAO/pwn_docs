@@ -8,7 +8,7 @@ description: >-
 
 You can access your achievement dashboard by tapping the ⭐️ star icon in the top right corner of our app. Below the dashboard screenshot, you’ll find descriptions explaining each section of the achievement dashboard.
 
-<figure><img src="../../.gitbook/assets/screencapture-app-pwn-xyz-achievements-2025-02-03-16_50_35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-app-pwn-xyz-achievements-2025-02-10-17_49_41.png" alt=""><figcaption></figcaption></figure>
 
 Your reputation score reflects the total reputation points (reps) you have accumulated on the connected wallet. Besides completing achievement![](broken-reference)s by using our protocol, you can also earn reps by creating social content on X.
 
