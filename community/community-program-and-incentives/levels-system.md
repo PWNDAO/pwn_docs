@@ -1,8 +1,7 @@
 ---
 description: >-
-  We’re also introducing a leveling system to provide users with a sense of
-  achieving certain milestones. Levels reflect the user’s community activity and
-  participation in the PWN protocol.
+  Levels reflect the user’s community activity and participation in the PWN
+  protocol.
 ---
 
 # Levels System
