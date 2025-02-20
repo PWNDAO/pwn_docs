@@ -48,7 +48,7 @@ This dual system ensures that the DAO remains efficient, while providing securit
 
 To encourage participation and reduce voter apathy, PWN DAO offers a voter incentive system. Voters who support successful proposals can earn rewards in newly minted $PWN tokens, proportional to the voting power they used. On the other hand, non-participation in governance may lead to inflationary penalties or reduced voting rewards over time.
 
-### **3.5 Staking and Voting Power** {#staking-and-voting-power}
+### **3.5 Staking and Voting Power** <a href="#staking-and-voting-power" id="staking-and-voting-power"></a>
 
 $PWN token holders must stake their tokens to gain governance power. The voting power granted is determined by the amount and remaining lock up of the stake:
 
@@ -81,3 +81,7 @@ Treasury funds are managed and allocated through governance decisions, including
 ## 5. DAO Infrastructure
 
 PWN DAO utilizes the [**Aragon OSx**](https://aragon.org/aragonosx) framework to implement decentralized governance. PWN DAO is initially deployed on Ethereum, with plans for multi-chain governance supported by a bridge timelock mechanism to ensure secure cross-chain voting and execution.
+
+{% hint style="info" %}
+The PWN DAO currently manages only the Ethereum deployment of the protocol. Deployments on other chains are managed by a team multisig until the PWN DAO starts operating cross chain.
+{% endhint %}
