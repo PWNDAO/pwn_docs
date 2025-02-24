@@ -1,7 +1,3 @@
----
-description: VIDEO EMBED
----
-
 # Funding loans
 
 ### Funding a loan on PWN is easy, predictable, and safe. As a lender, you're free to accept a borrower's terms or counter with your own. &#x20;

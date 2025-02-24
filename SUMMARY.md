@@ -19,11 +19,11 @@
   * [Offering a loan extension](guides/lending-on-pwn/offering-a-loan-extension.md)
 * [Tools](guides/tools/README.md)
   * [PWN Bundler](guides/tools/pwn-bundler.md)
-  * [PWN Safe](https://pwn.mirror.xyz/ApKLt74i_p3zJ8WbCLDqFb61UI92EU_oBhmduFVJR4g)
+  * [Pool Hooks](guides/tools/pool-hooks.md)
 * [Other](guides/other/README.md)
   * [Notifications on PWN](guides/other/notifications-on-pwn.md)
-  * [Verification Guide](guides/other/verification-guide.md)
   * [PWN's strategy vault](guides/other/pwns-strategy-vault.md)
+  * [Verification Guide](guides/other/verification-guide.md)
   * [Token verification lists 101](guides/other/token-verification-lists-101.md)
 
 ## 📝 PWN DAO
