@@ -6,13 +6,13 @@ This feature allows lenders to offer multiple credit assets against a single col
 
 Important Notes:
 
-Once a proposal is accepted, the other ones are no longer acceptable.\
+Once an offer is accepted, the other ones are no longer acceptable.\
 \
-If part of one credit asset is moved or spent while a multi-asset proposal is active, that particular asset will no longer be available for borrowing, but the other assets in the proposal will remain unaffected.
+If part of one credit asset is moved or spent while a multi-asset offer is active, that particular asset will no longer be available for borrowing, but the other assets in the offer will remain unaffected.
 
 _Example_:
 
-_Mark is willing to lend $1,000 at a 10% APR and 50% Loan-to-Value (LTV) ratio against ETH. He holds the equivalent amount in USDC, USDT, and DAI. Using the multi-asset commitment feature, he can create a lending proposal that includes all three stablecoins._
+_Mark is willing to lend $1,000 at a 10% APR and 50% Loan-to-Value (LTV) ratio against ETH. He holds the equivalent amount in USDC, USDT, and DAI. Using the multi-asset commitment feature, he can create a lending offer that includes all three stablecoins._
 
 _Any borrower interested in Mark’s terms can choose which stablecoin to borrow. Once a borrower accepts USDC, the DAI and USDT options will no longer be available, and only the active USDC loan will appear in the lender's dashboard._
 
@@ -28,7 +28,7 @@ If part of the credit asset is removed during an active elastic proposal, it may
 
 _Example:_
 
-_Mark creates an elastic lending proposal offering 1,000 DAI, with ETH as collateral at a 50% LTV ratio._ &#x20;
+_Mark creates a lending offer offering 1,000 DAI, with ETH as collateral at a 50% LTV ratio._ &#x20;
 
 _- User 1 borrows 500 DAI._ &#x20;
 
@@ -36,4 +36,4 @@ _- User 2 borrows 200 DAI._ &#x20;
 
 _- User 3 borrows 300 DAI._
 
-_As a result, Mark now has three open loans, all stemming from the same proposal._
+_As a result, Mark now has three open loans, all stemming from the same offer._

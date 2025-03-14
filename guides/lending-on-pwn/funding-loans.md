@@ -4,14 +4,14 @@
 
 There are several way to find loans to fund on PWN:&#x20;
 
-**Browse pending borrowing proposals:**
+**Browse pending borrowing offers:**
 
 1. Visit [https://app.pwn.xyz](https://app.pwn.xyz/#/create-loan) and connect your wallet.&#x20;
 2. Click on the "lend" tab the left-hand side module.
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-3. The borrowing proposals you can fund will have an active "Lend" button. All the others will be greyed.&#x20;
+3. The borrowing offers you can fund will have an active "Lend" button. All the others will be greyed.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
