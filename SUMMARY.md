@@ -6,6 +6,7 @@
 ## 💁 Guides
 
 * [Strategies](guides/strategies.md)
+* [Pool Hooks](guides/pool-hooks.md)
 * [Borrowing on PWN](guides/borrowing-on-pwn/README.md)
   * [Creating a borrowing offer](guides/borrowing-on-pwn/creating-a-borrowing-proposal.md)
   * [Borrowing from a specific asset/collection](guides/borrowing-on-pwn/borrowing-from-a-specific-asset-collection.md)
@@ -19,7 +20,6 @@
   * [Offering a loan extension](guides/lending-on-pwn/offering-a-loan-extension.md)
 * [Tools](guides/tools/README.md)
   * [PWN Bundler](guides/tools/pwn-bundler.md)
-  * [Pool Hooks](guides/tools/pool-hooks.md)
 * [Other](guides/other/README.md)
   * [Notifications on PWN](guides/other/notifications-on-pwn.md)
   * [PWN's strategy vault](guides/other/pwns-strategy-vault.md)

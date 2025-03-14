@@ -51,31 +51,39 @@ _At the moment, strategy creation is permissioned, meaning only approved curator
 
 #### Click on Strategies in the header:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-14 at 15.02.36.png" alt=""><figcaption></figcaption></figure>
 
-Hover over a strategy you're interested in and click to show more information, or click **"Commit"**:
+Hover over a strategy you're interested in and click to show more information
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-14 at 15.07.00 (1).png" alt=""><figcaption></figcaption></figure>
 
-Each strategy page will display a comprehensive view of lending terms, along with a complete list of eligible collateral and credit assets. Once you've found the right strategy, simply click **"Commit"**.
+Each strategy page will display a comprehensive view of lending terms, along with a complete list of eligible collateral and credit assets.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Once you've found the right strategy, simply click **"Borrow"** or **"Supply"** button.
 
-In the modal, select the assets and amounts you wish to lend, then click "**Confirm**." Note that you're free to commit a single asset or multiple assets.
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-14 at 15.09.57.png" alt=""><figcaption></figcaption></figure>
 
-_NB: The asset(s) you've committed will be used to generate proposals for each collateral in the strategy, following the pre-set allocation._
+**Supply**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+In the modal, select the assets and amounts you wish to Supply, then click "**Confirm**." Note that you're free to commit a single asset or multiple assets.
+
+_NB: The asset(s) you've committed will be used to generate offers for each collateral in the strategy, following the pre-set allocation._
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-14 at 15.18.05.png" alt=""><figcaption></figcaption></figure>
+
+**Borrow**
+
+In the modal, adjust the amounts you wish to Borrow, then click the "**Borrow**" button.&#x20;
+
+<figure><img src="../.gitbook/assets/screencapture-strategies-2025-03-14-15_18_53.png" alt=""><figcaption></figcaption></figure>
+
+
 
 **Approve in your wallet of choice and you're done!**
 
-Borrowers will now see your proposals that match the strategy you've committed to. They can use the collateral assets they own to accept these offers.&#x20;
+Borrowers will now see your offers that match the strategy you've committed to. They can use the collateral assets they own to accept these offers.&#x20;
 
-To view and manage all your active offers, go to your [Dashboard](https://app.pwn.xyz/#/dashboard).
-
-### 4. Borrowing Via Strategies
-
-Strategies are focusing on the lending user experience and flow. But borrowers will benefit from an increased amount of live lending proposal and curated fixed-terms. \
+To view and manage all your active offers, go to your [Dashboard](https://app.pwn.xyz/#/dashboard).\
 \
-All proposals pushed via strategies will be accessible via the [proposals section](https://app.pwn.xyz/#/) of PWN app.
+All offers pushed via Strategies will be accessible in the [Market](https://app.pwn.xyz/offers/borrow) section of PWN app.
 
