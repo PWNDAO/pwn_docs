@@ -39,6 +39,7 @@
 * [Community Program and Incentives](community/community-program-and-incentives/README.md)
   * [Protocol Incentives](community/community-program-and-incentives/incentives/README.md)
     * [Reputation Points](community/community-program-and-incentives/incentives/reputation-points.md)
+  * [Referral System](community/community-program-and-incentives/referral-system.md)
   * [Social incentives](community/community-program-and-incentives/social-incentives/README.md)
     * [Social Rewards](community/community-program-and-incentives/social-incentives/social-rewards.md)
     * [Content types](community/community-program-and-incentives/social-incentives/content-types.md)

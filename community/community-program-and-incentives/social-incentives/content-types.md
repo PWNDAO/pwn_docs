@@ -6,9 +6,11 @@ coverY: 0
 
 # Content types
 
+{% hint style="warning" %}
 ```
 DISCLAIMER: Social incentives are currently live only for our Ambassadors.
 ```
+{% endhint %}
 
 ## Memes
 

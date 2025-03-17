@@ -6,9 +6,11 @@ coverY: 0
 
 # Social incentives
 
+{% hint style="warning" %}
 ```
 DISCLAIMER: Social incentives are currently live only for our Ambassadors.
 ```
+{% endhint %}
 
 ***
 
