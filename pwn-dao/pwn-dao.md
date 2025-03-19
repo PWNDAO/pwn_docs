@@ -4,6 +4,10 @@
 
 PWN DAO is designed to manage and enhance the PWN Protocol, providing decentralized governance over advanced DeFi lending instruments such as non-custodial collateralized loans and contracts. This section outlines PWN DAO's governance model, tokenomics, and key features.
 
+{% hint style="info" %}
+For a comprehensive overview of the PWN DAO please refer to the [Whitepaper](https://pwn.xyz/dao-whitepaper.pdf).&#x20;
+{% endhint %}
+
 ## 2. PWN Protocol Overview
 
 PWN Protocol facilitates peer-to-peer, non-custodial, fixed-term loans. Key features include:
