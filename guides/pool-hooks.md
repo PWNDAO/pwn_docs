@@ -19,6 +19,7 @@ Example tutorial using Aave
 * [Aave](https://app.aave.com/)
 * [Morpho](https://app.morpho.org/)
 * [Compound](https://app.compound.finance/)
+* [Euler](https://app.euler.finance/)
 
 You can see all your available assets from pools in your Dashboard in the **Third-party positions** section.
 
