@@ -70,7 +70,7 @@ You only pay gas when accepting an offer as a borrower, cancelling an offer as a
 
 ### Is there a PWN token?&#x20;
 
-Currently, there's no PWN token.
+Learn more about PWN token in the [DAO Whitepaper](https://pwn.xyz/dao-whitepaper.pdf) and [PWN DAO](https://docs.pwn.xyz/pwn-dao/pwn-dao) section.
 
 ### Is PWN audited?
 
